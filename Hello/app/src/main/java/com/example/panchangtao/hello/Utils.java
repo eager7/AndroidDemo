@@ -3,6 +3,7 @@ package com.example.panchangtao.hello;
 import android.app.Activity;
 import android.content.Context;
 import android.graphics.Color;
+import android.util.Log;
 import android.view.Gravity;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -19,5 +20,15 @@ public class Utils {
         TextView v = (TextView) toast.getView().findViewById(android.R.id.message);
         v.setTextColor(Color.YELLOW);     //设置字体颜色
         toast.show();
+    }
+
+    void DBG_vPrintf(String str){
+        Log.d("PCT", str);
+    }
+    void INF_vPrintf(String str){
+        Log.i("PCT", str);
+    }
+    void ERR_vPrintf(String str){
+        Log.e("PCT", str);
     }
 }
