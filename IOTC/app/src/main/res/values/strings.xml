@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">IOTC</string>
+    <string name="title_activity_devices">DevicesActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_iotc">IotcActivity</string>
+    <string name="iot_center">IOT Center</string>
+    <string name="project_address">https://github.com/eager7/IOTC</string>
+    <string name="search_iotc">Search Iotc Server</string>
+    <string name="list_devices">List Devices</string>
+    <string name="help_iotc">Help</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
 </resources>
