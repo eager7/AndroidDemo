@@ -1,0 +1,2132 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/logo_h.png
+SHA1-Digest: NiIXDIWMhuIXwHmFVSalyGsn3g0=
+
+Name: res/drawable-xxhdpi/password_not_show.png
+SHA1-Digest: 8/FpAzbo7dVZ68AgLt/6c3YhNIo=
+
+Name: assets/drawable-mdpi/ic_com_sina_weibo_sdk_weibo_logo.png
+SHA1-Digest: pPsTM7fTM9iAAJ3fbCNm6YPQMGA=
+
+Name: res/drawable-xxhdpi/icon_back_p.png
+SHA1-Digest: ot3YI4m2mOUqb/D13HK+pMw2Heg=
+
+Name: res/drawable-xhdpi/passport_btn_bg_dialog_last_normal_light.9.pn
+ g
+SHA1-Digest: ljhclo7544izuDr86+BPJCG7ZRQ=
+
+Name: res/drawable-xhdpi/passport_btn_bg_dialog_single_normal_light.9.
+ png
+SHA1-Digest: CqO2pf4zXbRFhVS35uauW1sYhHY=
+
+Name: res/drawable-xxhdpi/icon_main_mine_selected.png
+SHA1-Digest: A3+WZ0N7EImyO/s0+eo00C7R29w=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_french.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: res/anim/dock_bottom_exit.xml
+SHA1-Digest: oBccn06WZqt/YJjE+zTGzyTt8Zo=
+
+Name: assets/place/star_gray.png
+SHA1-Digest: ZhunaWgBCc8swMOBU+nJhSW/njg=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_hungarian.txt
+SHA1-Digest: kpJ0pEDOyFBEu6wl4QdynsUq6jE=
+
+Name: res/drawable-xhdpi/passport_mi_rabbit.png
+SHA1-Digest: PSiLTjgw//K4JXtTrCxngpNTvLI=
+
+Name: res/drawable/icon_filter.xml
+SHA1-Digest: g7q7r5bjOucD/AU9EQWgiV5YIPk=
+
+Name: res/drawable-xxhdpi/icon_main_mine_normal.png
+SHA1-Digest: pge/vYM4YeddvClEqobevy28/eU=
+
+Name: res/drawable/passport_btn_bg_warn_light.xml
+SHA1-Digest: H1aalZM2NqcxQb0Q5mSijgsXeyc=
+
+Name: res/drawable-xxhdpi/passport_password_not_show.png
+SHA1-Digest: 8/FpAzbo7dVZ68AgLt/6c3YhNIo=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_hebrew.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: res/layout/loading_view.xml
+SHA1-Digest: K+DrJ51gSkJ+th1IVurIeT5wEZc=
+
+Name: assets/icon_scale.9.png
+SHA1-Digest: qIUctUAkthqkey8qZs8wMv+8+ow=
+
+Name: res/anim/pop_overlay_hide.xml
+SHA1-Digest: 9NLDzi1d6ykMClj5UvBPdnoOlJc=
+
+Name: org/apache/commons/codec/language/bm/sep_hebrew_common.txt
+SHA1-Digest: pLUCmc4T/RjuklQ1aIULtSUwHKI=
+
+Name: res/layout/passport_license_activity.xml
+SHA1-Digest: R0mDCyI4My7qzUNJAUG7VE7Fjik=
+
+Name: res/drawable-xxhdpi/skip_p.png
+SHA1-Digest: ByRu9XgZbX9DnrnNfANFKPwe5As=
+
+Name: res/drawable-hdpi/passport_group_middle_item_warn_bg.9.png
+SHA1-Digest: qyrOgXPBDzp4hkvj+IfZH8mOuwg=
+
+Name: res/drawable-sw600dp-xhdpi/passport_alphabet_indexer_bg.9.png
+SHA1-Digest: /Zn0HLNHjn5LLtZoHpvic3x/IPM=
+
+Name: lib/armeabi/libShopSigned.so
+SHA1-Digest: ERfXtQzjuyk8lnnrf237E8tOWuQ=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_french.txt
+SHA1-Digest: FzpQ+GbWmzaOeTszrpAHMAbmuII=
+
+Name: res/drawable-sw600dp-xhdpi/passport_btn_bg_single_normal_light.9
+ .png
+SHA1-Digest: H7Z5y22izQ8+UKd87cfCga/iFg0=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_spanish.txt
+SHA1-Digest: v/X501bGOhAvKUt41xXerI3WFvE=
+
+Name: res/drawable-xxhdpi/passport_alphabet_indexer_bg.9.png
+SHA1-Digest: T0lEsUC9YUChSwZ+tKptEv/z99c=
+
+Name: res/drawable/icon_thumb.xml
+SHA1-Digest: XZjyaIZKKM1FuC2LE1tOu6tvm0A=
+
+Name: res/drawable-hdpi/passport_provision_btn_login_p.9.png
+SHA1-Digest: 4P+iPXyIeifc4hbOnfmPgfEWS8Y=
+
+Name: res/drawable/bg_category_item_normal.xml
+SHA1-Digest: 2bMx2GCFRvlQIZgweRKIT1JWFg4=
+
+Name: assets/drawable-hdpi/weibosdk_empty_failed.png
+SHA1-Digest: MyNc9WPep/xeS/YIe0AT4Vu9lBM=
+
+Name: assets/cfg/l/DVHotcity.cfg
+SHA1-Digest: pYRdHEvIe4tHhbRW127cuDCe2k4=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_russian.txt
+SHA1-Digest: k/nguda0I1ot8kuzX5C5xNb+MhY=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_french.txt
+SHA1-Digest: QN+UL/Br/fToWzAZVM6R8yBU8uA=
+
+Name: res/layout/common_progress_dialog.xml
+SHA1-Digest: EdMV7s/hJCgv52O2wjGrIgFwdtU=
+
+Name: res/drawable-xxhdpi/passport_group_first_item_warn_bg.9.png
+SHA1-Digest: ttxwNv/g74e3Fk8XIeZzT3WGIfQ=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_french.txt
+SHA1-Digest: B8soq3ODQdgyws77pmFOVzo66uI=
+
+Name: res/layout/main_fragment.xml
+SHA1-Digest: wC0MO1jtfICvKwWC8O6cniloq5o=
+
+Name: res/drawable-xhdpi/star_small_hl.png
+SHA1-Digest: Fz464D9pxxfB0GPVUwuGcd9Rohk=
+
+Name: res/drawable/web_view_progress_bar.xml
+SHA1-Digest: tPvVSKXjzOvMPhUMHnW8pG7HPkA=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_greeklatin.txt
+SHA1-Digest: T0MDehullcH0uAY9slGJMUAhTkQ=
+
+Name: res/layout/passport_area_code_list_item.xml
+SHA1-Digest: anWXRMBJ2nGgLcuIPuKjoP3SVE8=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_cyrillic.txt
+SHA1-Digest: zhdfuG3lpctSYxuUJ7xTMIjSPNs=
+
+Name: res/drawable-xxhdpi/update_point.png
+SHA1-Digest: aL4ZhOiiwm9Kr9kiolyzQxf8glQ=
+
+Name: assets/plugins/mishopCart.apk
+SHA1-Digest: FdqkzhzzEdaEfDec77vK/FxIyho=
+
+Name: res/drawable-sw600dp-xhdpi/passport_btn_bg_first_pressed_light.9
+ .png
+SHA1-Digest: kdvDtqEg8cr95wNsf0frfIgzasw=
+
+Name: res/drawable-xxhdpi/passport_action_bar_back_pressed_light.png
+SHA1-Digest: yiw5HX2WM0dsoFKMB2fKtoZ3XN8=
+
+Name: res/drawable-xxhdpi/passport_btn_checkbox_off_normal_light.png
+SHA1-Digest: pK2MYxk72/i133drVKgFKGZOPgE=
+
+Name: assets/plugins/mishopSetting.apk
+SHA1-Digest: zroO8DvkcVHmyqeOmviCN6rO20s=
+
+Name: res/drawable/radio_button_bg2.xml
+SHA1-Digest: 0fWGg5FiPPbGvpcX3q9wmvfpK98=
+
+Name: res/drawable/data.bin
+SHA1-Digest: Fqz3LXpQps/ksVoNgfPM1rHL3BQ=
+
+Name: res/drawable-xxhdpi/passport_edit_text_bg_single_light.9.png
+SHA1-Digest: CtzCslFnINKg43B8ViWqtEN0Nyg=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_german.txt
+SHA1-Digest: YO+2+bquWxcrjLHWD06sQ4ycQYc=
+
+Name: res/color/passport_action_bar_title_text_light.xml
+SHA1-Digest: 9NLsskQx72w1aPWRLenYdZ516dA=
+
+Name: res/layout/passport_quick_login.xml
+SHA1-Digest: Z9R28avJ+7WXlUKuGg6+hprcatU=
+
+Name: res/drawable-xhdpi/passport_alphabet_indexer_text_highlight_bg.p
+ ng
+SHA1-Digest: 9S3vFZFgKl0gRqmQjeDBCXOY6Fw=
+
+Name: res/drawable/icon_back.xml
+SHA1-Digest: 2GSelj8ryDCXkAjDj9I92pRUyH0=
+
+Name: res/color/passport_preference_primary_text_light.xml
+SHA1-Digest: rOGlUvbMkj6+4MFnosFbD3OZWsg=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_polish.txt
+SHA1-Digest: BKwAayJJNnmipd/rFV3jPkaErSE=
+
+Name: res/drawable/selector_usercentral_listheader_functionbtn.xml
+SHA1-Digest: AILUBBOxgqcFYuAkUl97IKKTLic=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_turkish.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: res/drawable-xhdpi/passport_btn_bg_first_normal_light.9.png
+SHA1-Digest: u6o1WPghTcOR7FuV3NzCWbFkMd4=
+
+Name: assets/drawable-xhdpi/weibosdk_empty_failed.png
+SHA1-Digest: OFxmMyi+YS4fM1+C5cfft8v/Xms=
+
+Name: res/layout/wx_entry_activity.xml
+SHA1-Digest: HOHwXKhdhQ28ITZPgYrYjkeBktM=
+
+Name: res/drawable/icon_wallet.xml
+SHA1-Digest: 68O/YlCbi6A461wg76sSEBRQVoQ=
+
+Name: assets/com.tencent.plus.blue_disable.png
+SHA1-Digest: KwQ2SLR32W8k+uF420pUXoLLAto=
+
+Name: res/layout/listitem_home_listnormal1.xml
+SHA1-Digest: 8as8vS7SDK0VyUDCIV0Z/hExIFo=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_hebrew.txt
+SHA1-Digest: 80bIa465/ozUslfQBb84wPL42nY=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_portuguese.txt
+SHA1-Digest: t/2/p6TUuJNClF3XDM5XMY3oNJ8=
+
+Name: res/drawable/progress_pulltorefresh_icon.xml
+SHA1-Digest: fGfpeGeJwcMTTSsAbzSmoyp6kOc=
+
+Name: res/drawable-xxhdpi/passport_group_single_item_warn_bg.9.png
+SHA1-Digest: e6BTm7F8UyJ/fb2xKzxc76nk2Dg=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_english.txt
+SHA1-Digest: CHRv59odKbwWuNzWNtwmYNxOEH4=
+
+Name: res/drawable-hdpi/passport_provision_btn_transparent_bkg.9.png
+SHA1-Digest: l8gp9wgVsQlnb064swczCn1weGs=
+
+Name: res/xml/mi_authenticator.xml
+SHA1-Digest: pDBdbJ5iDqegjzZ+Ofp2fzN4A7w=
+
+Name: res/layout/base_list_fragment.xml
+SHA1-Digest: q3DdtOBjwjOfi/WwXjefzBONcOk=
+
+Name: res/drawable/bg_card_bottom.xml
+SHA1-Digest: QDYuxaGBfHyTtrOgsettS6CICRo=
+
+Name: res/drawable-sw600dp-xhdpi/passport_btn_bg_last_normal_light.9.p
+ ng
+SHA1-Digest: 2MGBS2kBZJv61BjY12uF+Mni70o=
+
+Name: res/drawable-xxhdpi/passport_btn_bg_warn_single_pressed_light.9.
+ png
+SHA1-Digest: Fns75TjaU6kFBBe705mGvNhpTS4=
+
+Name: assets/drawable-hdpi/timeline_relationship_icon_addattention.png
+SHA1-Digest: BO0M6PgawA6N064obadO9CMxSow=
+
+Name: assets/VerDatset.dat
+SHA1-Digest: EZNz+7LbA2cS33LsmybAwoQN+7E=
+
+Name: res/layout/license_activity.xml
+SHA1-Digest: R0mDCyI4My7qzUNJAUG7VE7Fjik=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_any.txt
+SHA1-Digest: jWl5fcYklf5KZQOVQOhWuWwoUAM=
+
+Name: res/drawable-xxhdpi/icon_order_head.png
+SHA1-Digest: nQU7Mgyk+1n/6OlxufF1rfLdrvs=
+
+Name: res/drawable-hdpi/passport_btn_transparent_bkg.9.png
+SHA1-Digest: l8gp9wgVsQlnb064swczCn1weGs=
+
+Name: res/drawable-xhdpi/passport_btn_bg_single_pressed_light.9.png
+SHA1-Digest: kzX8x3pD8rnN/WIlvF7oZJY80oc=
+
+Name: res/anim/ac_disappear.xml
+SHA1-Digest: NZHQVty+OyxpAqk3eeElUFRJKeY=
+
+Name: res/anim/disappear.xml
+SHA1-Digest: 6UaC7Sxy+JCalbuNqIKIypDKIy8=
+
+Name: res/drawable-xhdpi/passport_btn_bg_middle_pressed_light.9.png
+SHA1-Digest: jTHOLyf/L/UY6tjpsEStJY8TNkI=
+
+Name: res/raw/passport_countries
+SHA1-Digest: 8FRaE0U6ryWERYf0gPNEKdMV3TM=
+
+Name: res/drawable/btn_check.xml
+SHA1-Digest: /5txnQcg07F7yjXVCmW0KXaJpwo=
+
+Name: res/drawable-xxhdpi/icon_close_down.png
+SHA1-Digest: RiHrAD7umQeM1Kr3HTydeCKOnxc=
+
+Name: res/drawable-xxhdpi/passport_dialog_button_bar_bg.9.png
+SHA1-Digest: 2UYhubLtCN9NbK34EXvNsGKM5jY=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_polish.txt
+SHA1-Digest: YtjlwefN2I0RWdC2euL3eS1iTgQ=
+
+Name: res/anim/dock_top_enter.xml
+SHA1-Digest: DjrNix8N/csNBleQKPU9s5mYLlQ=
+
+Name: res/layout/horizontal_divider.xml
+SHA1-Digest: RMrixqn2Fyx1V3C2CTE1IYF981Q=
+
+Name: res/drawable-sw600dp-xhdpi/passport_list_item_single_bg_pressed_
+ light.9.png
+SHA1-Digest: pDXEJSkcF9hCyLo/L6TnEhmALww=
+
+Name: res/drawable-xhdpi/passport_group_last_item_normal_bg.9.png
+SHA1-Digest: jONaVr5d8Bf3lTpQoQvuaR2iyuU=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_russian.txt
+SHA1-Digest: i18jgMcJnz+/whRVChudyvXR6bQ=
+
+Name: res/drawable-xxhdpi/ellipsis_35.png
+SHA1-Digest: nV5P2vb1o5l5CrsEiy961zrBB4k=
+
+Name: res/drawable-xhdpi/passport_arrow_right_pressed.png
+SHA1-Digest: HDplKtpVcwzYSum1oKE8WaDvTd0=
+
+Name: res/drawable/bg_listitem_home_product_tip.xml
+SHA1-Digest: +FjPWfbag7plFEAoe9Sbfr1qJH8=
+
+Name: res/drawable/selector_home_staritem.xml
+SHA1-Digest: f1/xJqbQn2xt/mLlljYMDRaiaaQ=
+
+Name: res/drawable-xxhdpi/ellipsis_24.png
+SHA1-Digest: WRwNbpM80YnHXYIF94eiXGs3WYY=
+
+Name: res/drawable-xhdpi/comment_add_image_n.png
+SHA1-Digest: +sYwpYHx1B3HoM+FwjoPCtisVu0=
+
+Name: res/layout/passport_input_verify_code.xml
+SHA1-Digest: i/eR0zkV90CIKNkOJk/EKdsTH0Q=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_any.txt
+SHA1-Digest: tBhirNuraiANjlje0HNzz2Rd8XY=
+
+Name: assets/plugins/mishopInsurance.apk
+SHA1-Digest: chuKMUxqw4XOrHbmrl2YoJYwVBU=
+
+Name: res/anim/left_out.xml
+SHA1-Digest: OnVfkzrRH2SYqRh9HY5HQMBawXQ=
+
+Name: res/drawable-hdpi/passport_group_first_item_warn_bg.9.png
+SHA1-Digest: lE/EkXKDcXI78JedMFvF6eIOp4Q=
+
+Name: res/drawable-xxhdpi/icon_pulltorefresh_flip.png
+SHA1-Digest: vlQXV6JXRyouABdPFtWRhOU4Rsk=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_hebrew.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: res/drawable-xhdpi/comment_add_image_p.png
+SHA1-Digest: giGTEFssN36VpxjGn5XEDtksXOg=
+
+Name: res/drawable-xhdpi/group_last_item_normal_bg.9.png
+SHA1-Digest: iiMid0PTBdLJjctRzG93xJjOftE=
+
+Name: res/drawable-xxhdpi/icon_cart_n.png
+SHA1-Digest: +41n6b39M+MocLoULvweSJAoYZI=
+
+Name: res/drawable/griditem_diverline.xml
+SHA1-Digest: Ls7c/ZHANGYZpt45AR79jXqCz70=
+
+Name: res/drawable-xxhdpi/icon_pulltorefresh_progress.png
+SHA1-Digest: 9LOO4mWHcQdld2naWvaCvK9aRSU=
+
+Name: res/drawable-xxhdpi/icon_empty_loadingview_tip.png
+SHA1-Digest: v6rdk9X3InSlWDJ931u6XCJOlm0=
+
+Name: res/drawable-xxhdpi/v6_input_bg.9.png
+SHA1-Digest: eAa3p3fHIs3Q01fCUcLgNL0al+s=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_any.txt
+SHA1-Digest: 0mWytx3QfDcxQYesfSLfKaaiPGc=
+
+Name: assets/drawable-ldpi/ic_com_sina_weibo_sdk_close.png
+SHA1-Digest: K/kUN8WUKzwZfXiS+GGgFcVb/ok=
+
+Name: res/drawable/clear.xml
+SHA1-Digest: F90M8eaUK+h8e9BEFpK3sNaPyOo=
+
+Name: res/drawable-xhdpi/star_small_bg.png
+SHA1-Digest: qAFmMzN/k+Br7HHNNUpxfE00JOQ=
+
+Name: push_version
+SHA1-Digest: OyZALDqkgzYcIPx0yqLoExiGCJ4=
+
+Name: res/drawable-xhdpi/check_press.png
+SHA1-Digest: Q373FCVmGIL62VDTUT77dUQ40KQ=
+
+Name: assets/drawable-xhdpi/weibosdk_navigationbar_background.9.png
+SHA1-Digest: d35q9gjKIrP0t5z3gFaV5Y7SZi0=
+
+Name: res/drawable-sw600dp-xhdpi/passport_btn_bg_warn_single_normal_li
+ ght.9.png
+SHA1-Digest: kqhdowaTlE9AHQCRi8U18R1DQQ4=
+
+Name: res/drawable-xhdpi/passport_action_bar_back_normal_light.png
+SHA1-Digest: Ctz943Q4Rr14GB1bW7dNbLJfP7Y=
+
+Name: res/color/main_bottom_tab_icon.xml
+SHA1-Digest: SRkRelyKmgfVprnASIvhaGoJ/ok=
+
+Name: assets/drawable/weibosdk_dialog_bg.9.png
+SHA1-Digest: WXvo3k+6TIebf1AC+9PbdGgTOF4=
+
+Name: res/drawable-sw600dp-xhdpi/passport_btn_bg_dialog_last_pressed_l
+ ight.9.png
+SHA1-Digest: W/rfqGGXqtMjIMVv6IoIi0b4mZw=
+
+Name: res/drawable-sw600dp-xhdpi/passport_btn_bg_dialog_last_normal_li
+ ght.9.png
+SHA1-Digest: m27dm1NAbyl15dUH5ewT2Qj9IEA=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_hebrew.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: res/drawable-xhdpi/group_middle_item_normal_bg.9.png
+SHA1-Digest: W7VM76bDfVttZ9BmJqu8rwvAhJ8=
+
+Name: res/drawable/icon_mark.xml
+SHA1-Digest: jQ3w5HOBbBPV5vGfRnNpVArSiIQ=
+
+Name: res/drawable-sw600dp-xhdpi/passport_btn_bg_dialog_first_pressed_
+ light.9.png
+SHA1-Digest: ImwyxR9XAvkjoqCuxWJvfIyMV3k=
+
+Name: res/drawable-xxhdpi/product_label_tehui.png
+SHA1-Digest: 1M7WDTKUbZYK1ulhdLvI4/iGyH4=
+
+Name: res/drawable/filter_item_bg_p.xml
+SHA1-Digest: MZ0uZc1vhonFwag92BvGIrktV2A=
+
+Name: assets/cfg/h/DVHotcity.cfg
+SHA1-Digest: jE42/aHh+AkYo6jxgSxOaLIyak8=
+
+Name: res/drawable/selector_up_icon.xml
+SHA1-Digest: VpVlgCeseFLAYRomOfXVTOMs8nk=
+
+Name: res/drawable-xhdpi/list_item_single_bg_normal_light.9.png
+SHA1-Digest: h5eNXLNKBWMH9FnqUBD+aMdoC+E=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_any.txt
+SHA1-Digest: dLYj+QzWWMV1HWCtEJPX4xYg2q0=
+
+Name: res/drawable/v6_common_listitem_selector.xml
+SHA1-Digest: 6DswAOLgChZ3VN+Cl6A7XuHVIzE=
+
+Name: res/drawable-xxhdpi/icon_home_search.png
+SHA1-Digest: iY/0Jk9EtNkR2d4Mw2cFlorwjrU=
+
+Name: res/layout/layout_mainbottom_tab.xml
+SHA1-Digest: 2UuJyxbKa0FZnsDW5Snk0YSWy7c=
+
+Name: res/drawable-xxhdpi/passport_btn_bg_dialog_first_normal_light.9.
+ png
+SHA1-Digest: cjHU6lniX+t2OD/K4lxkT6/bKDg=
+
+Name: res/drawable-xhdpi/price_asc.png
+SHA1-Digest: ZxFMx53cymwGgTXkIrL9JCCBFrU=
+
+Name: res/layout/listitem_home_bannerview.xml
+SHA1-Digest: RzBw6CzzAvouFgZfvbn4NxylrL8=
+
+Name: res/drawable/list_item_bg.xml
+SHA1-Digest: BLSVPr8yROmcgnmwllJ6qIHGS7o=
+
+Name: assets/drawable-hdpi/common_button_white_highlighted.9.png
+SHA1-Digest: O2HwGTEEsDv1ulTqoNw74gKpW2c=
+
+Name: assets/cfg/a/ResPack.cfg
+SHA1-Digest: LlQ3XN5601ZmGE9ceutl1Yh/dGw=
+
+Name: res/drawable-xhdpi/passport_group_middle_item_normal_bg.9.png
+SHA1-Digest: 3zN3J7hukAW7vPL+DrYNFMiGH7A=
+
+Name: res/layout/sns_dialog.xml
+SHA1-Digest: Px2AUFDZa/GQa/hhgerw+Jp/74I=
+
+Name: res/drawable/selector_category_listitem.xml
+SHA1-Digest: M1ddQ07ZFkji1VHTiQg718NC43k=
+
+Name: assets/drawable-hdpi/weibosdk_common_button_alpha_highlighted.9.
+ png
+SHA1-Digest: kxfoxurSITb2na/H+j90g8rJyyg=
+
+Name: assets/drawable-xhdpi/weibosdk_common_shadow_top.9.png
+SHA1-Digest: 4rZQApOouEEOo6WShKdVUPd3+Wk=
+
+Name: assets/drawable-xhdpi/ic_com_sina_weibo_sdk_close.png
+SHA1-Digest: lkSRJVEzrfjHQeB0uyyolAgJTTM=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_french.txt
+SHA1-Digest: q9sgIysKftSjudOa4wXU3BLc/4Y=
+
+Name: res/drawable-xhdpi/passport_btn_bg_warn_single_normal_light.9.pn
+ g
+SHA1-Digest: YU36MpbP+Ynw7oLzBDtnLuqQrpY=
+
+Name: res/drawable-xxhdpi/ellipsis_37.png
+SHA1-Digest: J+0DBygjnkFZBPCKohuH+L+lmgM=
+
+Name: res/layout/layout_usercentral_listheader.xml
+SHA1-Digest: hY+TcAo2HXimkov/3XViMllNmzI=
+
+Name: res/drawable-xxhdpi/icon_arrow_right_disable.png
+SHA1-Digest: URAzGy9TPg9evcO/kcXmZCbQVfA=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_czech.txt
+SHA1-Digest: 00E7VR452tbgGSDvaN2vH71JXd0=
+
+Name: assets/CMRequire.dat
+SHA1-Digest: HvCt5Fa6OKoxWE0PvOZH0Lp0s5k=
+
+Name: res/drawable/v6_common_listitem_bg_normal.xml
+SHA1-Digest: x9ApWpIprACf8RzAnqjHm2ekBSU=
+
+Name: res/drawable-xhdpi/icon_up_n.png
+SHA1-Digest: 72Opyke7npPaBD5sXDw1zdE9hs8=
+
+Name: assets/drawable-xhdpi/weibosdk_common_button_alpha_highlighted.9
+ .png
+SHA1-Digest: 5PVQoLeEC8TkJpbRvYa+FcW+o08=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_romanian.txt
+SHA1-Digest: 9XU05+EK41PC/HwRw9zxny5awCw=
+
+Name: res/drawable/btn_user.xml
+SHA1-Digest: WtTka+ZVkLGzm2YvNejNl5lx6t4=
+
+Name: res/drawable-xxhdpi/ellipsis_31.png
+SHA1-Digest: YH8bC/IdcluxPjLmhn81LTFI9wM=
+
+Name: res/drawable-xxhdpi/sina.png
+SHA1-Digest: Sx/zbESS9r/qco/rEfgXUYO1l+o=
+
+Name: res/layout/home_header_gallery_pager.xml
+SHA1-Digest: 9Hp8uYK/fKtGM1ubEjZjVeGukfI=
+
+Name: res/drawable/griditem_diverline_horizon.xml
+SHA1-Digest: sBYkWQjlW8fqGlVzR619YggcjfM=
+
+Name: res/layout/listitem_home_gallery.xml
+SHA1-Digest: K1DJUBOg8GOmFt7dk+hUov8SKsE=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_portuguese.txt
+SHA1-Digest: ZyRdA9Y1nTUQmmRm1z2kwmyl9Xk=
+
+Name: res/layout/layout_common_button.xml
+SHA1-Digest: MJfqKjGzcZ/y6PeQpisL/+Kl8PQ=
+
+Name: res/drawable-xxhdpi/passport_btn_bg_dialog_single_normal_light.9
+ .png
+SHA1-Digest: +a/4rOIky2zHWqI41tAQOzv+F8s=
+
+Name: res/drawable-xxhdpi/ellipsis_30.png
+SHA1-Digest: KEWQp2vXtSJqYMM+C136SSxqUYM=
+
+Name: assets/com.tencent.plus.ic_success.png
+SHA1-Digest: nfo99+6yphuEgBIZu6+cg0j1+3k=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_dutch.txt
+SHA1-Digest: ubXAOlBgTG6cluGh9Yg9omLd9gY=
+
+Name: lib/armeabi/libNative.so
+SHA1-Digest: 1i01nIKs04cvTY9ULrteSN5agew=
+
+Name: assets/plugins/mishopInvite.apk
+SHA1-Digest: csUYo/Z2BHmXzRIJxAwRHNtjXUE=
+
+Name: res/drawable-xxxhdpi/passport_ic_contact_photo_fg.png
+SHA1-Digest: qIwO/VcZkG13yk2mTyNXOwV75yY=
+
+Name: res/drawable-xhdpi/icon_up_p.png
+SHA1-Digest: 9bJ57cFN+9mqB/YdiiwIgm12ZV0=
+
+Name: res/drawable/filter_price_icon_desc.xml
+SHA1-Digest: auBaVvszxPF38WLf5cPu1bXwX+Q=
+
+Name: assets/cfg/a/trafficstyle.sty
+SHA1-Digest: TF3GeDjRK3lbaILG27zGdn5CGE8=
+
+Name: res/drawable-xxhdpi/icon_close_normal.png
+SHA1-Digest: CwH9lSEomncpqvhRABy7IEQrnOQ=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_german.txt
+SHA1-Digest: ASWiPOCybslDsqdqSYrJCczwNBA=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_spanish.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: res/layout/passport_login_step2.xml
+SHA1-Digest: dALYiQTYkfiAFTqfRLG/XSt0yQc=
+
+Name: res/drawable-xhdpi/list_item_middle_bg_n.9.png
+SHA1-Digest: u7iCA7+hrS3VSp0xR+8r+IrAwdw=
+
+Name: assets/logo_l.png
+SHA1-Digest: WwqUEYbcRtro7LUcYuofXSP0AWc=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_romanian.txt
+SHA1-Digest: h57+YZWPX1cnEcSdoXhfGLuta3s=
+
+Name: res/drawable-xxhdpi/progressbar_indeterminate_bg_light.png
+SHA1-Digest: ip3qMyX1l7M2GuA4XDPSNl//OxM=
+
+Name: res/drawable-xxhdpi/clear_n.png
+SHA1-Digest: PbR9BddH2pbwoWVS02VEYiqHJCE=
+
+Name: res/drawable/bg_main_tab_bottom.xml
+SHA1-Digest: IgLXniX4LGbRkzgE5gjJJJZZI44=
+
+Name: assets/plugins/mishopReviews.apk
+SHA1-Digest: Usnag5CVLOjElIsNe/vYjsMZJcE=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_french.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: assets/cfg/l/DVStreet.cfg
+SHA1-Digest: OKtyGk2LWo+vKRyXiSg+vXosqn8=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_italian.txt
+SHA1-Digest: sQ1CrX8M+aYXtqb+FaAQJlodnx0=
+
+Name: assets/plugins/mishopMsgCenter.apk
+SHA1-Digest: MZ/fFNRhp2Ev2V3PPprfgw5KiZA=
+
+Name: res/drawable/dancing_ellipsis.xml
+SHA1-Digest: 9GEqe+iZZRZH6D5aH6dLnQhZfPc=
+
+Name: res/drawable-xhdpi/price_asc_hl.png
+SHA1-Digest: 75DZ+BnPG6Bxh4kz/VNce7tA07s=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_common.txt
+SHA1-Digest: yMn8iqUiPF5RM7J9xhj6gb3A6E4=
+
+Name: res/layout/passport_account_unactivated.xml
+SHA1-Digest: VcBk9JpEmW+cMnyIOPqc1t0JHs0=
+
+Name: res/drawable-xhdpi/passport_btn_bg_first_pressed_light.9.png
+SHA1-Digest: YzNnF1vbKzjZr+H3/HNpQIhJ2R8=
+
+Name: res/drawable-xxhdpi/passport_mi_rabbit.png
+SHA1-Digest: qaghCFR50YV65f+AgKJHGHIGexE=
+
+Name: res/drawable-xhdpi/passport_arrow_right_normal.png
+SHA1-Digest: HDplKtpVcwzYSum1oKE8WaDvTd0=
+
+Name: res/layout/passport_simple_spinner_dropdown_item.xml
+SHA1-Digest: ZF9XlFYra9Iat+t+WALn9usJuq0=
+
+Name: res/drawable-xxhdpi/ellipsis_27.png
+SHA1-Digest: H7sgerd6xmAb3wS5+p05CvfWTro=
+
+Name: res/layout/search_btn.xml
+SHA1-Digest: yaz2NGQemTKmh/qim1MC3rLebNA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: X51IQ236c5DfTyqJOQQV40M85IU=
+
+Name: res/layout/passport_input_email.xml
+SHA1-Digest: vfm3d54gfS4jrCjLRbightxhYCI=
+
+Name: res/drawable-xxhdpi/passport_group_single_item_normal_bg.9.png
+SHA1-Digest: waM14WuQK+JgD0Sjr7JksXd7v6Q=
+
+Name: org/apache/commons/codec/language/bm/gen_languages.txt
+SHA1-Digest: Wd+YcHRM0F23bj/qZsPhOjYOa+4=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_spanish.txt
+SHA1-Digest: uTGxICniFcGE+85pnK+pGH1Xzt8=
+
+Name: res/drawable/passport_action_bar_back_light.xml
+SHA1-Digest: ffbqbTxxJSh2tLWzr+Adh8Fq8SY=
+
+Name: res/drawable-xxhdpi/arrow.png
+SHA1-Digest: Qx82jpO0n4dpVp7j/zxxpl7LLnk=
+
+Name: res/drawable-xxhdpi/search_current.png
+SHA1-Digest: 0fR0ElVmWBycx6Q5Ed0Up3x0+8o=
+
+Name: res/layout/home_footer_feeback.xml
+SHA1-Digest: aq5AQivrsJGfpXJgWG6WHNYHi2M=
+
+Name: res/drawable/passport_btn_bg_dialog_light.xml
+SHA1-Digest: 3V67AM9rPdDxKMaj3PD+Y4mdhiw=
+
+Name: assets/com.tencent.open.config.json
+SHA1-Digest: TCAijjFuxJdEM20Vc3Fnk4fUJoQ=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_portuguese.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: res/anim/slide_right_in.xml
+SHA1-Digest: PnxF6T+HJllUFkxNZmq9j43q+D0=
+
+Name: res/drawable-xxhdpi/ellipsis_28.png
+SHA1-Digest: ejaaEhilCZ+SfraciutiAUcCTG8=
+
+Name: res/drawable-xxhdpi/ellipsis_36.png
+SHA1-Digest: 3YPR49lsZ0FImJiXMf0ggbhQHFA=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_cyrillic.txt
+SHA1-Digest: Yg5q1pDwdRE2199a3lBn//aVSZ0=
+
+Name: assets/drawable-ldpi/ic_com_sina_weibo_sdk_weibo_logo.png
+SHA1-Digest: WFmUd3LXqQfFwy+wPe3H5ljsC9M=
+
+Name: res/drawable-hdpi/goods_tv.jpg
+SHA1-Digest: paHPp2zONlmwq/+5kTo3PZ2w6T8=
+
+Name: classes.dex
+SHA1-Digest: dMt/sEVORqR5jGppgFF4EgSpEhg=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_czech.txt
+SHA1-Digest: iPK8bJaVzSZc5K5rvtJ99cdrL3g=
+
+Name: res/layout/filter_ui.xml
+SHA1-Digest: 71ZktjEh7EYUtvqv7tkh9mnPSnM=
+
+Name: res/drawable-xhdpi/passport_action_mode_bg_dialog_light.9.png
+SHA1-Digest: /1WWkz7dHXMG9OrCgTBW7tOXGD4=
+
+Name: res/drawable-xxhdpi/passport_dialog_bg_light.9.png
+SHA1-Digest: W+MxaeWlqRf3ea0ALcyQRxYVV3w=
+
+Name: res/drawable-xxhdpi/passport_btn_bg_dialog_single_pressed_light.
+ 9.png
+SHA1-Digest: VjM7ApCsijmn13C5OIIsdxm2XRc=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_spanish.txt
+SHA1-Digest: jxaPlVZm4rC0Egc7UWeCEFaLVsQ=
+
+Name: res/drawable-xhdpi/passport_window_bg_light.9.png
+SHA1-Digest: CZtqLzNaLKraBl2TJlCMm8S3ZkA=
+
+Name: res/layout/activity_home.xml
+SHA1-Digest: YQ4zX4meKvkptmZ61BuHzI8hBWE=
+
+Name: res/anim/slide_left_in.xml
+SHA1-Digest: n8o8PIhXbKNokwmTfza2Txu/XCg=
+
+Name: res/drawable-xxhdpi/icon_main_service_selected.png
+SHA1-Digest: C9CJRtmVuhLL2zCtjsGKh2kvsCY=
+
+Name: assets/com.tencent.plus.logo.png
+SHA1-Digest: B+1AMe3cF/KE17U2+A9Ol1T9mEA=
+
+Name: assets/buttonPost.png
+SHA1-Digest: jAZacXy5ocEht6Mv0CIw6+BDN/w=
+
+Name: res/drawable-xhdpi/default_pic_small_inverse.9.png
+SHA1-Digest: Eog9zC/t/1ephlrUSWXez+Jrs7o=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: UCzYT6RE8m1+z99KNVBkhnl38jY=
+
+Name: res/drawable-xxhdpi/icon_wallet_normal.png
+SHA1-Digest: fxQa2ziBAZtZBJ64PGJb+cR1aCM=
+
+Name: assets/cfg/a/mapstyle.sty
+SHA1-Digest: YQkRv3hpAW+3yaICazAk6s8LRZM=
+
+Name: res/drawable-hdpi/passport_group_single_item_warn_bg.9.png
+SHA1-Digest: 2F7QCAd3EmnlFzec/od/VsHsTNc=
+
+Name: res/drawable-xhdpi/passport_group_middle_item_warn_bg.9.png
+SHA1-Digest: C4dAraKkDr6muvKQwzkW8H60who=
+
+Name: assets/cfg/l/DVDirectory.cfg
+SHA1-Digest: sRW1J/dOTCke3KqxmzFqRGrKj1s=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_greeklatin.txt
+SHA1-Digest: epTnnPkJV3kP2U6NeMgMH2hMESs=
+
+Name: res/drawable-xhdpi/list_item_single_bg_pressed_light.9.png
+SHA1-Digest: maeadGRYorNWZbRYKxBi+BYxs/0=
+
+Name: assets/drawable-hdpi/weibosdk_common_shadow_top.9.png
+SHA1-Digest: vZ/+6bI0SjRdEba25Yt8THu8VaU=
+
+Name: res/drawable-sw600dp-xhdpi/passport_btn_bg_middle_normal_light.9
+ .png
+SHA1-Digest: n7lNe9su5Btd1lg8FNBFvT25C2c=
+
+Name: res/drawable-xhdpi/passport_dialog_bg_light.9.png
+SHA1-Digest: W+MxaeWlqRf3ea0ALcyQRxYVV3w=
+
+Name: res/layout/launch.xml
+SHA1-Digest: dFqepFMeP+Nx4SZEsBta83GGEC0=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_any.txt
+SHA1-Digest: s7KvcfwD+yZtsux5sF8HC7SSwKw=
+
+Name: res/drawable-xxhdpi/icon_clear_n.png
+SHA1-Digest: ZahEcNiwrC61h894lDnX9pPBi8w=
+
+Name: res/anim/search_out.xml
+SHA1-Digest: tjwHqzIQ0MTq1CJR3BqPYZNoGrA=
+
+Name: res/drawable-xxhdpi/user_n.png
+SHA1-Digest: DL9OYxCTrdgNDwHpP8qvKPviynM=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_portuguese.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_portuguese.txt
+SHA1-Digest: wGpv/4nTHPd+c4HkTvDnN2PUYOU=
+
+Name: res/drawable-xxhdpi/ellipsis_38.png
+SHA1-Digest: hKTNolLHUItu6tPZ6B7Lw/wonuM=
+
+Name: res/layout/passport_progress_dialog.xml
+SHA1-Digest: yEpbfMy7FS5gL45bc6tCZu/7/KU=
+
+Name: res/drawable/search_input_bg.xml
+SHA1-Digest: CG4Lc61PvyMFWpATcoV0qYwCK8Y=
+
+Name: res/drawable-xxxhdpi/passport_ic_contact_photo_mask.png
+SHA1-Digest: /A9iUNt/oQGQ7Pf8COepBGb4FAU=
+
+Name: assets/plugins/mishopOrder.apk
+SHA1-Digest: ZbkLlHfwqKGZWuwl9DP5L14xELE=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_hungarian.txt
+SHA1-Digest: KxrQuSBewEePK/XN5khH0PWw7yE=
+
+Name: res/layout/listitem_category.xml
+SHA1-Digest: inx6TOkK3bDC+AfudgK3kbQr2HI=
+
+Name: res/drawable-hdpi/passport_mi_rabbit.png
+SHA1-Digest: zD2d/tvXjNg3ab575ScOzdXZSfA=
+
+Name: res/drawable-hdpi/passport_provision_btn_p.9.png
+SHA1-Digest: 5i3e/xrQbZVEVsjmpgbYB/rzIzw=
+
+Name: res/drawable-xhdpi/passport_list_item_single_bg_selected_light.9
+ .png
+SHA1-Digest: maeadGRYorNWZbRYKxBi+BYxs/0=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_french.txt
+SHA1-Digest: CrDzmQQb/nDj6G9KGuej8e+uHIU=
+
+Name: res/drawable-xxhdpi/multiple_choice_n.png
+SHA1-Digest: DG/uZl81KOmHtt0iOFV+UK5iRVY=
+
+Name: res/drawable/passport_edit_text_bg_light.xml
+SHA1-Digest: UeQCaeAFDTuYBYQaJKBfMXI8S44=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_italian.txt
+SHA1-Digest: fpEQsllQFifzCfJ/dp1xEwvBVdg=
+
+Name: res/drawable/icon_close.xml
+SHA1-Digest: qhpewmWbBTY0X3F2UcF2qMTG8/k=
+
+Name: res/drawable/icon_search.xml
+SHA1-Digest: JMQ2NNHAPATw9R/v9efqLqQzY88=
+
+Name: res/anim/slide_left_out.xml
+SHA1-Digest: emCLrjg4YTU4Rni+K1MizAQqc6E=
+
+Name: res/drawable/multiple_choice_img.xml
+SHA1-Digest: KRZDFZ2YuBJDH3MXVD2MNhhyN0A=
+
+Name: res/layout/main_bottom_tab_icon.xml
+SHA1-Digest: OYfcVFQy43eJoFGhS/YsrEtJ/P4=
+
+Name: res/drawable-xxhdpi/icon_filter_n.png
+SHA1-Digest: SPIHTRi9UErwspUcJHmYxNU++uM=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_romanian.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: lib/armeabi/libBaiduMapSDK_v2_4_2.so
+SHA1-Digest: +UxhqD8nS/zu6ghZ/2rWsfsq5rk=
+
+Name: res/drawable-xhdpi/group_first_item_normal_bg.9.png
+SHA1-Digest: zinLVxuaVCo++1kbsufRhD1zSQA=
+
+Name: res/xml/aliverequest_wakeful.xml
+SHA1-Digest: WD8be2Jgmw6z6Yx3uYQJqcNj4U0=
+
+Name: res/drawable-sw600dp-xhdpi/passport_btn_bg_dialog_first_normal_l
+ ight.9.png
+SHA1-Digest: j2CB/kskwuO5+MKT8V1Q3Tu76Pg=
+
+Name: res/drawable/passport_arrow_right.xml
+SHA1-Digest: fUzLugZOPWRW42+GXVI14T1QdKE=
+
+Name: res/drawable-hdpi/goods_health.jpg
+SHA1-Digest: aDfAgmOixpxp3cNeQF3WBNA7RsY=
+
+Name: res/layout/passport_alert_dialog_progress.xml
+SHA1-Digest: K8wzK75WJAwcGjX/qQOSbhNukjc=
+
+Name: res/drawable-xxhdpi/icon_back_n.png
+SHA1-Digest: exd7A97PXIDHLSpDS9dVclbZg08=
+
+Name: lib/armeabi/liblocSDK3.so
+SHA1-Digest: NuOh8tCBweXmZA45ei8NRFWYJUQ=
+
+Name: res/drawable-xhdpi/passport_btn_bg_middle_normal_light.9.png
+SHA1-Digest: CqcB9R3fUzmm2jz4skBPVmntDxw=
+
+Name: res/drawable/passport_list_item_bg_light.xml
+SHA1-Digest: hms/g2Y10FeFd6PF0J/JHdI7IQo=
+
+Name: res/drawable-xxhdpi/clear_p.png
+SHA1-Digest: 3HezuGOmp2xTPfZxHRGRWZ2hTn8=
+
+Name: res/drawable-xxhdpi/icon_wallet_current.png
+SHA1-Digest: qC1svylKxlYntSgDgSgrjd2i840=
+
+Name: res/layout/listitem_category_title.xml
+SHA1-Digest: vwUM60bupd2K0UIQZ4ChGcbr0OA=
+
+Name: res/drawable-xxhdpi/passport_btn_bg_warn_single_normal_light.9.p
+ ng
+SHA1-Digest: sQap5+VqiVN1rZG6WFHo8OP17eo=
+
+Name: res/drawable-xhdpi/passport_dialog_button_bar_bg.9.png
+SHA1-Digest: 7vdGWX1VvcsudKNt/hbC4w61RZg=
+
+Name: res/drawable/btn_skip.xml
+SHA1-Digest: BKnS4GKrPIDku04xovfX6Y5JdpM=
+
+Name: res/drawable-xxhdpi/user_p.png
+SHA1-Digest: Fuf+1GBjo2zib5alpSmTJUZx0lE=
+
+Name: res/layout/search_header.xml
+SHA1-Digest: OfaLTlXGPwSjBurdkHi7YMYieVM=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_italian.txt
+SHA1-Digest: 4OtvhiYVCX6Pngy4UP1SKrIDoro=
+
+Name: res/anim/search_in.xml
+SHA1-Digest: 43n5a6lLXkId5diW6JAtUqTbZ3g=
+
+Name: res/drawable/passport_progressbar_indeterminate_light.xml
+SHA1-Digest: 5zjKUQJPSy5Shp3UOBAAFZHuVBY=
+
+Name: res/drawable-sw600dp-xhdpi/passport_btn_bg_single_pressed_light.
+ 9.png
+SHA1-Digest: nL6s1qbRSKsMKC9KgKwRjgTA4wA=
+
+Name: res/drawable-xxhdpi/icon_unlogin.png
+SHA1-Digest: X4ZvM7nv9F7llB57ux0OzoyD0sk=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_italian.txt
+SHA1-Digest: kpJ0pEDOyFBEu6wl4QdynsUq6jE=
+
+Name: res/drawable-xxhdpi/passport_ic_contact_photo_fg.png
+SHA1-Digest: ojabCO1+5Ar9L9/WI/9sc1/B8xY=
+
+Name: res/drawable-xhdpi/passport_btn_checkbox_on_normal_light.png
+SHA1-Digest: X6ldgAw2wJRUalOWL81DPp8NcY4=
+
+Name: res/drawable-xhdpi/passport_ic_contact_photo_mask.png
+SHA1-Digest: GlQQVIgH0XLD3e0XFPWAZvhD9cQ=
+
+Name: res/drawable-xxhdpi/icon_mark_normal.png
+SHA1-Digest: RJNnJKwp9R/3lY0tBwsXB37vnqM=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_hungarian.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: res/drawable-xhdpi/passport_btn_bg_warn_single_pressed_light.9.p
+ ng
+SHA1-Digest: gnTYiH9mBz2fahoYUz4IUixzNaM=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_arabic.txt
+SHA1-Digest: yt4PLY35eX3omtnfi8cYJAdUwDA=
+
+Name: res/drawable-xxhdpi/icon_main_home_normal.png
+SHA1-Digest: dcdN6V5Ag6//57Kng1KqzwewIv4=
+
+Name: res/drawable-xxhdpi/radio_button_n2.9.png
+SHA1-Digest: NIL2Sqk7zWFsBwWqPMlE82mOnHI=
+
+Name: res/drawable-hdpi/mm_trans.png
+SHA1-Digest: 3xjUE6cWPAN8UfuS3W+6aPrFPio=
+
+Name: res/drawable-xhdpi/check_normal.png
+SHA1-Digest: UADFtapBM8BfsmCvd6o7QOsGJ5g=
+
+Name: res/layout/filter_btn.xml
+SHA1-Digest: U1aufe/WHXWGVZ4NPbabqyR19tc=
+
+Name: res/drawable-xxhdpi/ellipsis_26.png
+SHA1-Digest: wJRtWTvhbfa5AA6lRSmuSIz6Wog=
+
+Name: res/layout/activity_qidong.xml
+SHA1-Digest: n/IXK5xWYEQSt5tdPlfiaE1q/ik=
+
+Name: res/drawable-xxhdpi/icon_cart_p.png
+SHA1-Digest: +41n6b39M+MocLoULvweSJAoYZI=
+
+Name: res/drawable-xxhdpi/ellipsis_32.png
+SHA1-Digest: 7NltwNAIlhIXl7rHRfJMaiQ5R7I=
+
+Name: assets/drawable-xhdpi/common_button_white_highlighted.9.png
+SHA1-Digest: /dMYCuW+4uu+jdLhG+XN4KPLMKU=
+
+Name: res/drawable-hdpi/account_icon.png
+SHA1-Digest: cNYqsJYmFJG33bUgisGsnPTN2ec=
+
+Name: res/drawable-xhdpi/passport_group_single_item_normal_bg.9.png
+SHA1-Digest: QEdVUd4l25UEiRy+9U3xl+U0ypY=
+
+Name: res/layout/listitem_category_phone_group_item.xml
+SHA1-Digest: Lpgigx6BdNEHovHhv/Fk+QiEA1E=
+
+Name: res/drawable-xxhdpi/default_splash.jpg
+SHA1-Digest: Cb0/HcU2kOdeuAncdlCq/GSznFE=
+
+Name: assets/com.tencent.plus.ic_error.png
+SHA1-Digest: HisWESn8PSVNnjhjfsbMtsajomo=
+
+Name: assets/background.9.png
+SHA1-Digest: M3YQ4bymCLlirCApFCkEMdWdqrA=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_hungarian.txt
+SHA1-Digest: w312gpWjUSsWx0VAK7N26JpOv3E=
+
+Name: assets/plugins/mishopMsgReply.apk
+SHA1-Digest: f85lYzvJYhintpiejUkZXZtrQX0=
+
+Name: res/drawable-sw600dp-xhdpi/passport_btn_bg_first_normal_light.9.
+ png
+SHA1-Digest: SPAd23x92liQXVE9RhE0MpU3W4s=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_polish.txt
+SHA1-Digest: d7PswPXB40uZY4D8wXcuG7osFGk=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_spanish.txt
+SHA1-Digest: wGpv/4nTHPd+c4HkTvDnN2PUYOU=
+
+Name: res/drawable-xxhdpi/passport_btn_checkbox_off_disabled_light.png
+SHA1-Digest: n2cSQJlP+2ng8l1iBoUrTZHjeHI=
+
+Name: res/drawable-xhdpi/passport_btn_checkbox_off_disabled_light.png
+SHA1-Digest: qrkssj3MuhY9yU/H4zSir1GuJrM=
+
+Name: lib/armeabi/libentryexpro.so
+SHA1-Digest: Y1F//nJSxmEwcBFa96yAaBfiea4=
+
+Name: res/drawable-xhdpi/passport_btn_bg_last_normal_light.9.png
+SHA1-Digest: ouLH+eKStI4fc+gA0Vty1LtiIts=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_polish.txt
+SHA1-Digest: bnV3hR/TM8/nCLUXvfXHWUmvShI=
+
+Name: res/drawable-xxhdpi/passport_password_show.png
+SHA1-Digest: rbVz/pov0+3YbvyOOvl31Tzs0l0=
+
+Name: res/drawable-xxhdpi/passport_alphabet_indexer_overlay.9.png
+SHA1-Digest: wh7w3jq40wEmUsGpys6HvnlQk50=
+
+Name: res/drawable/bg_category_item_press.xml
+SHA1-Digest: 3uU1h1EtX4bqsNXIISmTOYK01VQ=
+
+Name: res/layout/base_product_fragment.xml
+SHA1-Digest: 8mpMPAmNHJnS/lm09dBScscL00c=
+
+Name: res/drawable-xxhdpi/icon_arrow_right_normal.png
+SHA1-Digest: gYK8kPZHx7g9dDDqsmq1ZMvtCJI=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_russian.txt
+SHA1-Digest: ln5mpI7m/dYz8po1m2pe5V1t//k=
+
+Name: res/layout/listitem_home_productview_star.xml
+SHA1-Digest: c1Z0iyss0xb8lgg5LZXby7rVl4U=
+
+Name: res/drawable/btnright_bg_orange.xml
+SHA1-Digest: Z553Tk+neRnBwDA7qYeKn5LNO1E=
+
+Name: assets/drawable-xhdpi/weibosdk_common_button_alpha.9.png
+SHA1-Digest: QfuS+znHWtI6Pb096PEhYQQzAg0=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_romanian.txt
+SHA1-Digest: 8dJCy93UqGPxUAM5qiwy8UeOCpA=
+
+Name: res/drawable-sw600dp-xhdpi/passport_list_item_single_bg_normal_l
+ ight.9.png
+SHA1-Digest: Hm/5W2Ec5R7ManyXfDYb5uXgai8=
+
+Name: res/drawable-xxhdpi/ellipsis_20.png
+SHA1-Digest: KAUttPwIEVDLCsGt8XENFSijI/g=
+
+Name: assets/drawable-xhdpi/ic_com_sina_weibo_sdk_weibo_logo.png
+SHA1-Digest: 1UhLzD7mzLjsa/PtCr4kUomna6Y=
+
+Name: assets/plugins/mishopBarcode.apk
+SHA1-Digest: z3rpYYkAc3cIYBVblk+uU/aYf4k=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_arabic.txt
+SHA1-Digest: 8LPDBpkhGMPrbgNH/3GMv5DW2Vs=
+
+Name: assets/drawable-xxhdpi/ic_com_sina_weibo_sdk_close.png
+SHA1-Digest: yHpKqBvMV3I2kZglNBXmZEpRqf0=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_english.txt
+SHA1-Digest: QN+UL/Br/fToWzAZVM6R8yBU8uA=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_russian.txt
+SHA1-Digest: T4ZqaaGytR6k0txV4R9HaAMRd8M=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_approx_common.txt
+SHA1-Digest: c9AqKhHVO0VPlbeLnJTrKdy/gSs=
+
+Name: res/drawable-xxhdpi/passport_group_last_item_warn_bg.9.png
+SHA1-Digest: MgfALi0TIIIbH6ch01p3RyN6H8s=
+
+Name: res/drawable-xxhdpi/passport_default_avatar.png
+SHA1-Digest: vp2+j5RmW/PEisQvUBAw5jtjkp4=
+
+Name: res/color/passport_checkable_btn_text_color_stable_light.xml
+SHA1-Digest: eQXTOsPBFN392Ehn7Z57VlxoVcI=
+
+Name: res/drawable/hyperlink_bg.xml
+SHA1-Digest: oOAubG6pOmCWzQcxsfOJCNyPCzY=
+
+Name: res/drawable/bg_basedialog_button_parentlayout.xml
+SHA1-Digest: zzSLzFUZ0APc0UQ3X0vjgivEHgQ=
+
+Name: res/drawable-xxhdpi/password_show.png
+SHA1-Digest: rbVz/pov0+3YbvyOOvl31Tzs0l0=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_english.txt
+SHA1-Digest: WdrL/vp21NUtryKaVCYaAfnUY9U=
+
+Name: res/drawable-xxhdpi/passport_list_item_single_bg_normal_light.9.
+ png
+SHA1-Digest: S1M45VfuzxW+JYLzj819WGZ56UE=
+
+Name: res/drawable-xhdpi/passport_action_mode_split_bg_dialog_light.9.
+ png
+SHA1-Digest: B93tTN8WOr1+GHmFZ237nI8CABw=
+
+Name: res/layout/usercentral_fragment.xml
+SHA1-Digest: /pjXMmrKTzob796jDH5lBp4naYU=
+
+Name: res/drawable-xhdpi/passport_action_bar_bg_light.9.png
+SHA1-Digest: aOi+mEWHmTPg/2Lm6Ie8CHcnh4E=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_common.txt
+SHA1-Digest: VLGwCVv3uxq8eYkWPr7gmtHLOnU=
+
+Name: assets/plugins/michat.apk
+SHA1-Digest: BIaxexu6Kmf9wxh2OHIHU9FKPOc=
+
+Name: res/drawable-xhdpi/passport_btn_bg_warn_single_disable_light.9.p
+ ng
+SHA1-Digest: iltfIE/gMRqeOQNGj4wkRWl4Ego=
+
+Name: res/anim/dock_bottom_enter.xml
+SHA1-Digest: itwNY2ESbykr9DCHafvk8aELAaY=
+
+Name: res/drawable-xhdpi/passport_progressbar_indeterminate_bg_light.p
+ ng
+SHA1-Digest: geFZrp0A1gx0GFjaItzlbs2x+O8=
+
+Name: assets/place/star_light.png
+SHA1-Digest: 3W39VFHIddj6kPuGgSeyQFaHPSU=
+
+Name: res/anim/appear.xml
+SHA1-Digest: n/Aq+jY8P04r/JhA3xd77gbPxG0=
+
+Name: res/drawable/bg_home_theme_listitem_normal.xml
+SHA1-Digest: utKlCwo9IDmT0pBmXviq0JibDVQ=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_dutch.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: res/drawable/point.xml
+SHA1-Digest: wj5UsYspYTxTftWxUAOVjTe0Pdg=
+
+Name: res/drawable-xhdpi/passport_password_show.png
+SHA1-Digest: WzAGk8zi4ArA08sZ2Fc/3ZGddEQ=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_any.txt
+SHA1-Digest: 54nb4ON7/wkHOr32PrSKqoszAGk=
+
+Name: res/layout/passport_input_phone.xml
+SHA1-Digest: AiDmYsuucdaH88YmOIkir2IcIC8=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_common.txt
+SHA1-Digest: 4KUii83+gs6HZqsqdVTJKWmbKLE=
+
+Name: res/drawable-hdpi/goods_hand.jpg
+SHA1-Digest: mT/DFoqUDiNAe6O+iRjKzgJC4Ek=
+
+Name: res/drawable-xxhdpi/passport_group_first_item_normal_bg.9.png
+SHA1-Digest: uKrtieuWRU0bflplSzgpVnT/2EM=
+
+Name: res/drawable-xxhdpi/passport_action_mode_split_bg_dialog_light.9
+ .png
+SHA1-Digest: iy0OPjw/va/Azn0XvN+vdbiLyH8=
+
+Name: res/anim/dock_top_exit.xml
+SHA1-Digest: eeFpeH0KFFV2cN7prvweo7lP58g=
+
+Name: res/drawable-hdpi/passport_group_single_item_normal_bg.9.png
+SHA1-Digest: OV8kGaEkuyuA4UVNN1IZlCDu/Do=
+
+Name: res/drawable-xhdpi/passport_btn_bg_dialog_single_pressed_light.9
+ .png
+SHA1-Digest: NC3bnMMPB2IpTHd4y3bMUsA5ksE=
+
+Name: res/layout/listitem_home_title.xml
+SHA1-Digest: GQZmwDnI8aYQiQ1/meiPMsLHAiw=
+
+Name: res/drawable/passport_btn_bg_light.xml
+SHA1-Digest: qAvpG+wz4ED5AGHvwrUwNMChEsA=
+
+Name: res/drawable-hdpi/passport_provision_btn_n.9.png
+SHA1-Digest: WQ0QzLye6vO+mY77bUKDKn3coBM=
+
+Name: res/drawable-xhdpi/passport_group_first_item_warn_bg.9.png
+SHA1-Digest: popVNM4Z1QE1mycpU7ULItMC6M0=
+
+Name: res/drawable/icon_home_title_left_tip.xml
+SHA1-Digest: ckeZNGK+m/wLapHcpD1xaWfPX14=
+
+Name: assets/plugins/mishopWebView.apk
+SHA1-Digest: OID+T3ZJi1VxHCU3nG0mml1BAHM=
+
+Name: res/drawable-sw600dp-xhdpi/passport_alphabet_indexer_text_highli
+ ght_bg.png
+SHA1-Digest: vcPUO/zFhu/CVEsSDdGGpqywfyY=
+
+Name: assets/plugins/mishopProductDetail.apk
+SHA1-Digest: QjMZRg17TccbCX6fIx3AOqWpzic=
+
+Name: res/drawable-xxhdpi/icon_clear_p.png
+SHA1-Digest: 7yZrNSEjnn+ZC98gcEXp6mzXbEc=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_italian.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: res/drawable-xxhdpi/passport_action_bar_bg_light.9.png
+SHA1-Digest: XhlK7aEdqicz047Dd9MYsTvLEUU=
+
+Name: com/sina/weibo/sdk/net/cacert_cn.cer
+SHA1-Digest: FnE+tMPhmbXBjTOnmkDlfeUWhUI=
+
+Name: res/layout/sns_dialog_grid_item.xml
+SHA1-Digest: bDrRDK5mFW84hV7+79IKZc13y4M=
+
+Name: res/drawable/filter_item_bg_n.xml
+SHA1-Digest: 7qCL18Xqk2msdmiCVp2Bp2bOJK4=
+
+Name: res/drawable-sw600dp-xhdpi/passport_btn_bg_warn_single_pressed_l
+ ight.9.png
+SHA1-Digest: lhsNbM5FKnwu8cd4CI37A5urzbI=
+
+Name: res/color/passport_dialog_list_text_light_single_choice.xml
+SHA1-Digest: 2E47Nm5c9O/imcmaImE/iA6Rf9o=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_romanian.txt
+SHA1-Digest: c2FG81GO6lTa5eTZpNvoIjKLPfw=
+
+Name: res/drawable/comment_add_image.xml
+SHA1-Digest: tr+wCL47y5emaWhKeME3TVtQYsQ=
+
+Name: res/drawable-xxhdpi/passport_list_item_single_bg_pressed_light.9
+ .png
+SHA1-Digest: u0hnjdE4yAITFNzBhffcWgtanww=
+
+Name: res/drawable-xhdpi/passport_arrow_right_disable.png
+SHA1-Digest: IRwVPRJHXQ6qGU8dg+bxmB3eeOs=
+
+Name: res/drawable-xxhdpi/passport_btn_bg_single_pressed_light.9.png
+SHA1-Digest: TDwlq6+8CzWxXG6EGeCFD3+nAL8=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_english.txt
+SHA1-Digest: xDM5Kj+RvDu2y5bXf+6seM3O0Ww=
+
+Name: res/drawable-xxhdpi/passport_group_middle_item_warn_bg.9.png
+SHA1-Digest: YtLHRN8Lp4NnqPB+/hyfKC35kPA=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_english.txt
+SHA1-Digest: 00E7VR452tbgGSDvaN2vH71JXd0=
+
+Name: res/drawable-xhdpi/passport_edit_text_bg_single_light.9.png
+SHA1-Digest: ZTOkM37xqCJ+k72tLOkhrn1BxYA=
+
+Name: res/drawable-xxhdpi/passport_progressbar_indeterminate_circle_li
+ ght.png
+SHA1-Digest: Abc5xDOkRnwRvNjQvdYgsb3FRNQ=
+
+Name: res/drawable-xxhdpi/qzone.png
+SHA1-Digest: VnyVGFH8NugJ06fuyvvnDAUb3UY=
+
+Name: res/drawable-sw600dp-xhdpi/passport_btn_bg_middle_pressed_light.
+ 9.png
+SHA1-Digest: cUc48tt+YQKACZCG9lCqDWserts=
+
+Name: res/drawable/passport_btn_bg_dialog_last_light.xml
+SHA1-Digest: wVtKfzHJCngW0m3GJFFDvFZhI+4=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_german.txt
+SHA1-Digest: 3GlHgMBkvi2mEoFnPYxoBXIh4No=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_german.txt
+SHA1-Digest: MxrOjj0j10k/YbNQybQuDJBum3c=
+
+Name: res/drawable-xhdpi/passport_btn_checkbox_off_normal_light.png
+SHA1-Digest: k8NdDrTSaOP60WgoZ6Hm9aRmnYY=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_spanish.txt
+SHA1-Digest: lGrj01vFVhIZq42vqijMqqlw+eo=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_polish.txt
+SHA1-Digest: C2oXvKtemOA5+wbuURYYZrRXawk=
+
+Name: res/drawable-xxhdpi/passport_arrow_right_normal.png
+SHA1-Digest: gYK8kPZHx7g9dDDqsmq1ZMvtCJI=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_any.txt
+SHA1-Digest: 31+z+V5I9I/BsRgZo688C7Nmz5c=
+
+Name: res/drawable-xxhdpi/multiple_choice_p.png
+SHA1-Digest: FtPL6RH8kIiTeYeoEmeenbvmV0o=
+
+Name: res/layout/listitem_home_setting_title.xml
+SHA1-Digest: a01dTaefeTn0YCbLpYLuQz2GseI=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_greek.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: assets/drawable-xhdpi/timeline_icon_attention.png
+SHA1-Digest: giughSSJUj97DA+wQLoTR7DF/P4=
+
+Name: res/drawable-xxhdpi/passport_btn_bg_dialog_first_pressed_light.9
+ .png
+SHA1-Digest: wjmoYoHAqDrftdSYOseUzG/KlBc=
+
+Name: assets/drawable-xhdpi/timeline_icon_add_friends.png
+SHA1-Digest: sM+Ydo+HOcu1dhRk5a69CPhzUPc=
+
+Name: res/drawable-xxhdpi/passport_btn_bg_single_normal_light.9.png
+SHA1-Digest: SQ1/nAfd00i3VFFKqTxe7bTpBVs=
+
+Name: res/drawable-xhdpi/price_desc.png
+SHA1-Digest: 54Uop4GeEP2Nlyg0NJLkDH9P58c=
+
+Name: res/drawable-hdpi/passport_provision_btn_login_n.9.png
+SHA1-Digest: G+QteFGfQ5WhqcoUw+IjmI56Tr4=
+
+Name: res/layout/service_fragment.xml
+SHA1-Digest: RiwBfDnzKueRRrJv4ynmPMpKjlI=
+
+Name: res/drawable/list_item_bg_light.xml
+SHA1-Digest: t0RpVV9CO+KBH1/TvtQgg3aKaDE=
+
+Name: res/drawable-xxhdpi/ellipsis_21.png
+SHA1-Digest: XkRj/NYj3YDby2EDkMQwh+OXgpo=
+
+Name: assets/cfg/h/DVDirectory.cfg
+SHA1-Digest: OLZcdUQFgfQ92zLvF0gOXIfwFT8=
+
+Name: res/drawable-xhdpi/passport_btn_bg_dialog_first_normal_light.9.p
+ ng
+SHA1-Digest: HTHIL8GEMhIuZPntJkBERPvO5FM=
+
+Name: assets/plugins/mishopFavorite.apk
+SHA1-Digest: WnxB2t2MLijXacx6wKiLXWg0OQ4=
+
+Name: res/drawable/icon_arrow_right.xml
+SHA1-Digest: OEgg5vF/fA4eMUP0nb2SIxHPqvE=
+
+Name: assets/drawable-hdpi/ic_com_sina_weibo_sdk_weibo_logo.png
+SHA1-Digest: EGLoFUlkWW8hckTV7o9nnJJQzMQ=
+
+Name: res/drawable/rating_bar_small.xml
+SHA1-Digest: sNCKDi6h7MhZwVD/omnVStZQ17k=
+
+Name: res/drawable-xxhdpi/ellipsis_34.png
+SHA1-Digest: xs/4RfFWE+S2P0z/K9RNUOzJ/pE=
+
+Name: res/drawable-sw600dp-xhdpi/passport_arrow_right_normal.png
+SHA1-Digest: gYK8kPZHx7g9dDDqsmq1ZMvtCJI=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_german.txt
+SHA1-Digest: 0/CejklscQ18lQIcpLZ4h2ZwsQ0=
+
+Name: res/drawable-xxhdpi/icon_mark_down.png
+SHA1-Digest: 605jafarRaqUcpO8fDi0N4wbNIE=
+
+Name: res/drawable-xxhdpi/copy.png
+SHA1-Digest: 98aPYpPGgyX9d4E+Pfd6/xDrcnc=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_greeklatin.txt
+SHA1-Digest: KM44dvGlJjA1G1+QMxAorjQfVZo=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_english.txt
+SHA1-Digest: WdrL/vp21NUtryKaVCYaAfnUY9U=
+
+Name: res/drawable-xxhdpi/skip_n.png
+SHA1-Digest: IJnykID5dVdjGXM8ItDgbqPbrk4=
+
+Name: res/drawable-xxhdpi/ellipsis_29.png
+SHA1-Digest: fZoV0vX9tfGew34RdFpyKvOy3lU=
+
+Name: res/layout/category_fragment.xml
+SHA1-Digest: zGUvQ7bQwBLZQiUn78k+Ohux+jg=
+
+Name: res/layout/passport_area_code_picker_fragment.xml
+SHA1-Digest: CfZ0SpE7PGze63AKM0u87LnNc+M=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_cyrillic.txt
+SHA1-Digest: QN+UL/Br/fToWzAZVM6R8yBU8uA=
+
+Name: res/layout/passport_account_register_success.xml
+SHA1-Digest: JpjMPfrfNfSWQL0UfASe6gVyi1o=
+
+Name: res/raw/countries
+SHA1-Digest: CKzCF17J5BzELuG54KHQ8zLRgEo=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_any.txt
+SHA1-Digest: 5FHNYWkE/iE9uhTrfBSWz2fh4rI=
+
+Name: org/apache/commons/codec/language/bm/ash_languages.txt
+SHA1-Digest: x5ijgzijaJwexI8tGvYq1Ys8W0o=
+
+Name: res/color/passport_normal_text_light.xml
+SHA1-Digest: kpNjNgL0/04JgSbWpn48H58dQ0E=
+
+Name: res/layout/web_fragment_for_5.xml
+SHA1-Digest: bMi7LtPgFyp0GUCvOdcW19tmkc4=
+
+Name: assets/com.tencent.plus.blue_down.png
+SHA1-Digest: P5pLNnim3nMuEA2ZM1/RdQsqIUY=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_turkish.txt
+SHA1-Digest: rN+fxuizg39UWtnHiV1G1d2AaVY=
+
+Name: res/drawable-xhdpi/group_middle_item_warn_bg.9.png
+SHA1-Digest: ARWupJ2sUn8NG3J8qJT0aAp5uyk=
+
+Name: res/drawable-xhdpi/passport_action_bar_back_pressed_light.png
+SHA1-Digest: Iyc4BWms24EyYFrHsklLvavagSE=
+
+Name: res/color/passport_list_text_light.xml
+SHA1-Digest: A9d4/EPf/VIKQzNc+Pi6zr8CpMM=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_approx_common.txt
+SHA1-Digest: 2wGOF99LQlKr0epBg2LDfgg5c/k=
+
+Name: res/drawable-sw600dp-xhdpi/passport_arrow_right_disable.png
+SHA1-Digest: URAzGy9TPg9evcO/kcXmZCbQVfA=
+
+Name: res/drawable-xhdpi/passport_list_item_single_bg_normal_light.9.p
+ ng
+SHA1-Digest: h5eNXLNKBWMH9FnqUBD+aMdoC+E=
+
+Name: res/drawable-xxhdpi/spinner_bg.9.png
+SHA1-Digest: RJPElCOp2FS1mK5ikeJzg5aDAXk=
+
+Name: org/apache/commons/codec/language/bm/sep_rules_hebrew.txt
+SHA1-Digest: G0Yn8vlBmcqKqvsNdi9pfDl8Mbs=
+
+Name: assets/drawable/sdk_weibo_logo.png
+SHA1-Digest: rW8UPTPzFCloGCi9aDYH0RNdKfM=
+
+Name: res/layout/listitem_home_productview_nomal.xml
+SHA1-Digest: AMj2OCSHglEHZYzX+lPBhQe+O0g=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_russian.txt
+SHA1-Digest: lulM+eX+omlYPVagYcZ7S+1OOAg=
+
+Name: res/drawable-xhdpi/passport_password_not_show.png
+SHA1-Digest: 8x/BAaF6EfVoPojP6vQCgcNc02I=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_greek.txt
+SHA1-Digest: ZK+AVLklo2cJUK6apOygqti1wRM=
+
+Name: assets/place/arrow.png
+SHA1-Digest: 3gWKzf1rnroxvdMjcciXamNV3vk=
+
+Name: assets/plugins/mishopMiHome.apk
+SHA1-Digest: N+ICffbRKy4zF8V8fwZWmWWOBIc=
+
+Name: res/layout/listitem_user_item.xml
+SHA1-Digest: kaj1uzyvSUcaNnmBxUAJiErriqI=
+
+Name: res/drawable-sw720dp-xhdpi/passport_list_item_single_bg_pressed_
+ light.9.png
+SHA1-Digest: pDXEJSkcF9hCyLo/L6TnEhmALww=
+
+Name: assets/cfg/h/DVVersion.cfg
+SHA1-Digest: JjUkhjmYUlWY9mO6cTTs7Cq1krI=
+
+Name: res/drawable-xhdpi/passport_ic_contact_photo_fg.png
+SHA1-Digest: ++m7aidN9KWf7UKz5lyykxJw8kA=
+
+Name: res/drawable-xxhdpi/icon_main_service_normal.png
+SHA1-Digest: 0mIlvmItiadwZPSQhi4Z2LQhdGY=
+
+Name: assets/place/iconphone.png
+SHA1-Digest: jfeqsGDvXJu4n98/RwoKWS1AXHQ=
+
+Name: res/layout/base_product_fragment1.xml
+SHA1-Digest: 8mpMPAmNHJnS/lm09dBScscL00c=
+
+Name: res/drawable-xxhdpi/search.png
+SHA1-Digest: iY/0Jk9EtNkR2d4Mw2cFlorwjrU=
+
+Name: res/drawable-sw600dp-xhdpi/passport_btn_bg_warn_single_disable_l
+ ight.9.png
+SHA1-Digest: XLGvBhRiUzKNSPvTg0JceB/9raY=
+
+Name: res/drawable-xxhdpi/icon_thumb_normal.png
+SHA1-Digest: Zpf5oPwF453XPt7o0uiPvD+sEhQ=
+
+Name: res/drawable-xxhdpi/icon_main_home_selected.png
+SHA1-Digest: BwOUjCxpqLUfQeHEPKIfwJ4PHyA=
+
+Name: res/drawable-sw600dp-xhdpi/passport_arrow_right_pressed.png
+SHA1-Digest: gYK8kPZHx7g9dDDqsmq1ZMvtCJI=
+
+Name: res/layout/passport_alert_dialog.xml
+SHA1-Digest: FCHiKzYclXhqAOSxoxBuf6RmmkU=
+
+Name: res/layout/base_dialog.xml
+SHA1-Digest: NtefEdk/0WY56FbmEkETQ+sCR2s=
+
+Name: assets/config/plugins.xml
+SHA1-Digest: Wu4uGnBuIum5RbV3IsJKMLzGVyU=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_greek.txt
+SHA1-Digest: /j/A9h8+FfAazMODJJHekOCQB5c=
+
+Name: assets/cfg/a/street.sty
+SHA1-Digest: XBEgMjk7XIhI+4x9yl7RxD9QgLs=
+
+Name: assets/com.tencent.plus.bar.png
+SHA1-Digest: Uqc6Y8bgiyAUESBhMAg2jzRRLpk=
+
+Name: res/layout/listitem_category_group.xml
+SHA1-Digest: ZgDLTxvTaIOgBd2Il0xOMo0eiXQ=
+
+Name: res/layout/passport_login.xml
+SHA1-Digest: 58BaCG9UlD58G4EJibyq4Ijp448=
+
+Name: res/drawable/bg_home_theme_listitem_pressed.xml
+SHA1-Digest: rwGfDrTn42+jfhiQBR5EbMNnTbA=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_italian.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: res/drawable-sw720dp-xhdpi/passport_list_item_single_bg_normal_l
+ ight.9.png
+SHA1-Digest: Hm/5W2Ec5R7ManyXfDYb5uXgai8=
+
+Name: res/drawable/btnleft_bg_orange.xml
+SHA1-Digest: Mz08BN6FbZEGHEa1ZuhKPXjTAq8=
+
+Name: res/drawable-xxhdpi/icon_truck_normal.png
+SHA1-Digest: G4FCIeTNqcSY/K9IRnEqJiT06LI=
+
+Name: assets/com.tencent.plus.gray_normal.png
+SHA1-Digest: P6NA2qEQVIJ4nGyUaUEQaY6LYrQ=
+
+Name: res/drawable-xxhdpi/passport_group_middle_item_normal_bg.9.png
+SHA1-Digest: Kb9lWmEP6FBf0x3GcAcAu5P2KqM=
+
+Name: res/drawable-xxhdpi/icon_arrow_right_pressed.png
+SHA1-Digest: gYK8kPZHx7g9dDDqsmq1ZMvtCJI=
+
+Name: res/drawable-xxhdpi/ellipsis_25.png
+SHA1-Digest: yRbmXvi9zG/Z6Z6rwOaSYQz++eo=
+
+Name: res/drawable-sw600dp-xhdpi/passport_list_item_single_bg_selected
+ _light.9.png
+SHA1-Digest: pDXEJSkcF9hCyLo/L6TnEhmALww=
+
+Name: res/drawable/progress_bar_ani_normal.xml
+SHA1-Digest: WQrk5h3xjiujYh8aB/fVIC54+Pk=
+
+Name: res/drawable-sw600dp-xhdpi/passport_btn_bg_dialog_single_pressed
+ _light.9.png
+SHA1-Digest: 6AIvDYsQ2ySPCUxtsuqX2i728ZE=
+
+Name: res/layout/update_list_item.xml
+SHA1-Digest: CY1YaRexmcVfOdjfacIcpdVbLIo=
+
+Name: res/drawable-xxhdpi/icon_thumb_current.png
+SHA1-Digest: z0IWnSj9W96GL+T4CQpC+r3ZbNg=
+
+Name: assets/plugins/mishopProductList.apk
+SHA1-Digest: 2LrTfUgQfc14FxeySTUeB+R/I8c=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_russian.txt
+SHA1-Digest: rXaMJ4HIP1dVq2JA4YDx9goSHNo=
+
+Name: res/drawable-xxhdpi/app_icon.png
+SHA1-Digest: xAAFwfCtlW5MO+eVj3d/Av3B8r8=
+
+Name: res/anim/right_enter.xml
+SHA1-Digest: pp0DHo0GLjdQ/XX747FCM1vblqE=
+
+Name: res/drawable-xxhdpi/wx.png
+SHA1-Digest: oHMK7retiBFsmn8+ENfN7luB+hg=
+
+Name: res/drawable-xhdpi/pop_up_bg.9.png
+SHA1-Digest: BBi49qKJc1DUYXy6EGcyeDXsFOs=
+
+Name: res/layout/listitem_home_product2view.xml
+SHA1-Digest: G3NEbPeBxP++HpZQhkf6F9C5W7M=
+
+Name: res/drawable-xhdpi/group_single_item_warn_bg.9.png
+SHA1-Digest: OKkhWGcCvNeM4HAqE6AycLn6E00=
+
+Name: org/apache/commons/codec/language/bm/lang.txt
+SHA1-Digest: H+gJtZUsHsM9QHoCyS/cdT9yjaQ=
+
+Name: res/drawable-xhdpi/passport_ic_contact_photo_bg.png
+SHA1-Digest: tmGF/9wmeZH+bDwgfMF2jm1YS4U=
+
+Name: res/layout/listitem_category_group_item.xml
+SHA1-Digest: UVSPgbUWj2iXg0+rT/kq0ea12vA=
+
+Name: res/drawable/icon_truck.xml
+SHA1-Digest: cMZ5COgla1zwI9/Yawg8Es8ILwg=
+
+Name: assets/drawable-hdpi/common_button_white.9.png
+SHA1-Digest: GhCdbx6PAaiR5O/XfBlh6uIw96k=
+
+Name: assets/drawable-mdpi/ic_com_sina_weibo_sdk_close.png
+SHA1-Digest: ov4pulcGm12EZ0xXUY9KDK66rog=
+
+Name: res/drawable/selector_clear_icon.xml
+SHA1-Digest: 323hzKpQ8vJQAIa2YuN9WHG0+7s=
+
+Name: res/drawable/filter_item_bg.xml
+SHA1-Digest: epUEIduQsQ87Y/x+p/SJ3r17ic8=
+
+Name: assets/plugins/mishopAddress.apk
+SHA1-Digest: SAZ4OrvbOuf2DY2dZIJ/ew9GRfo=
+
+Name: org/apache/commons/codec/language/bm/sep_approx_hebrew.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: res/drawable-xhdpi/passport_text_cursor_light.9.png
+SHA1-Digest: gnkwEQTpYG4kGOgRGmChuKn1CQQ=
+
+Name: res/drawable-xxhdpi/ellipsis_33.png
+SHA1-Digest: UWGW9XFECnWxlRPVgZ4gSFV3FL4=
+
+Name: res/drawable/filter_price_icon_asc.xml
+SHA1-Digest: nPaa+Cguwj9LyO2qNUdtXt6OQ/U=
+
+Name: res/drawable-xxhdpi/ellipsis_23.png
+SHA1-Digest: iqBuzvfKRWEPYl+3oDacx5ioxgE=
+
+Name: res/color/passport_list_secondary_text_light.xml
+SHA1-Digest: SxOXeus9fUCUXp1NHcsGWyb3sKM=
+
+Name: res/drawable/v6_common_listitem_bg_pressed.xml
+SHA1-Digest: WVzDHgtphdkRZyzsfiUqCsVlAnc=
+
+Name: res/drawable-xhdpi/passport_default_avatar.png
+SHA1-Digest: vp2+j5RmW/PEisQvUBAw5jtjkp4=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_portuguese.txt
+SHA1-Digest: ZK+AVLklo2cJUK6apOygqti1wRM=
+
+Name: res/drawable/passport_btn_checkbox_light.xml
+SHA1-Digest: LYliNmuuYg6x8WsBsKwH4o2Ta1c=
+
+Name: res/drawable-xxhdpi/passport_window_bg_light.9.png
+SHA1-Digest: CZtqLzNaLKraBl2TJlCMm8S3ZkA=
+
+Name: res/drawable-xhdpi/passport_progressbar_indeterminate_circle_lig
+ ht.png
+SHA1-Digest: PdZao78uiKScs6OaUu4K2JAYMjY=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_common.txt
+SHA1-Digest: padRPYJ0BaElGjLugFZoVeiaNRQ=
+
+Name: res/layout/listitem_home_productview_comment.xml
+SHA1-Digest: 1487YzuUje0CSuYCaWtj7ErZRAo=
+
+Name: res/drawable-xhdpi/passport_list_item_single_bg_pressed_light.9.
+ png
+SHA1-Digest: maeadGRYorNWZbRYKxBi+BYxs/0=
+
+Name: assets/plugins/mishopSearch.apk
+SHA1-Digest: 4jBnGrSMJQaVneT64zb9fwK5L70=
+
+Name: res/layout/base_fragment.xml
+SHA1-Digest: IuU5mwbADOOQnynuJBY2+QHqwbs=
+
+Name: org/apache/commons/codec/language/bm/gen_hebrew_common.txt
+SHA1-Digest: U+3sGtHvTz+ZqpSe1f7MYHB2TsQ=
+
+Name: res/drawable-xxhdpi/icon_filter_p.png
+SHA1-Digest: QwrB+SrK0wZdClUL3O1WNSzgHfU=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_dutch.txt
+SHA1-Digest: ZK+AVLklo2cJUK6apOygqti1wRM=
+
+Name: res/drawable-sw720dp-xhdpi/passport_list_item_single_bg_selected
+ _light.9.png
+SHA1-Digest: pDXEJSkcF9hCyLo/L6TnEhmALww=
+
+Name: res/drawable-xxhdpi/progressbar_indeterminate_circle_light.png
+SHA1-Digest: HA8aG8bowzLd7UHwYZDh9YIMEoE=
+
+Name: res/drawable-xxxhdpi/passport_ic_contact_photo_bg.png
+SHA1-Digest: PTWuxYTXx09EBdh71nLPy17mYJw=
+
+Name: res/drawable-xxhdpi/icon_main_category_selected.png
+SHA1-Digest: pcKhbgkLEbk+hhsb4q6BH+p/QDk=
+
+Name: res/drawable-xxhdpi/passport_btn_bg_dialog_last_pressed_light.9.
+ png
+SHA1-Digest: gN/u8lIzNQmR0MQBh6BGotZPQDU=
+
+Name: res/drawable-xxhdpi/passport_text_cursor_light.9.png
+SHA1-Digest: mBDy9XkwPXuxCK5RNIW/IOmdtTk=
+
+Name: res/drawable-xxhdpi/passport_btn_checkbox_on_normal_light.png
+SHA1-Digest: 0SokGr3lC/tcAccelDOCeWMfBY4=
+
+Name: res/color/passport_normal_text_dark.xml
+SHA1-Digest: lA/0T4P9L6orGrXS2id9m5TruUg=
+
+Name: assets/cfg/a/satellitestyle.sty
+SHA1-Digest: WZ95lIU7Ybxe4Jp1tjg6E6Wmhfc=
+
+Name: res/drawable-xhdpi/group_last_item_warn_bg.9.png
+SHA1-Digest: R4XUsE57z76hhMcYprfvJxxZKUE=
+
+Name: res/layout/pull_to_refresh_header_vertical.xml
+SHA1-Digest: gTNolZyZwX5YB1ahViLKEwuyKHU=
+
+Name: res/layout/passport_reg_failed_dup_phone_dialog.xml
+SHA1-Digest: 2klxKM4i20EcV1rliH/4MzxkDKI=
+
+Name: res/layout/empty_activity.xml
+SHA1-Digest: sBMXAGDkvDfy9mBQKZPbtBOWEWc=
+
+Name: res/drawable/v6_common_listitem_bg_disabled.xml
+SHA1-Digest: qOMHMzClmOPwvFIEI1ddCTVu8ec=
+
+Name: lib/armeabi/libDToken.so
+SHA1-Digest: tuusbbq7nmqoCHEpehgHbocgiKA=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_czech.txt
+SHA1-Digest: ZK+AVLklo2cJUK6apOygqti1wRM=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_hebrew.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: res/drawable-xxhdpi/passport_action_mode_bg_dialog_light.9.png
+SHA1-Digest: h+BFN6KREYYfRf34nbAIO0hBsms=
+
+Name: resources.arsc
+SHA1-Digest: qe+TVY71hMdoTiKzU3FaUG60rMc=
+
+Name: res/anim/passport_dialog_exit.xml
+SHA1-Digest: N7iBqom7EaOhfEdJAuEmVAWsyRc=
+
+Name: res/layout/listitem_home_product3view.xml
+SHA1-Digest: 7GFiljjrwo7jzPS27fF3TPUBs30=
+
+Name: res/drawable-xxhdpi/ellipsis_22.png
+SHA1-Digest: b4pNXbVKZD1vdKpnY2/7/L4ZUZ8=
+
+Name: res/drawable-hdpi/passport_group_last_item_warn_bg.9.png
+SHA1-Digest: 3y9HIGv+k1SuLd7Wmgizvsyoacs=
+
+Name: res/drawable-xxhdpi/passport_group_last_item_normal_bg.9.png
+SHA1-Digest: NP86+AQUPcEAH2F52rak/kaSySg=
+
+Name: assets/cfg/l/DVVersion.cfg
+SHA1-Digest: JjUkhjmYUlWY9mO6cTTs7Cq1krI=
+
+Name: res/anim/ac_appear.xml
+SHA1-Digest: e03qKb9JJ3970gMzpae571cLcT4=
+
+Name: res/drawable-xxhdpi/wx_timeline.png
+SHA1-Digest: cku1Ed9YlLbvs+pbVZxe12pDq50=
+
+Name: res/drawable-xhdpi/passport_group_first_item_normal_bg.9.png
+SHA1-Digest: lkH6gNeJoTuTP8U3G5Aiw0KQxxQ=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_approx_common.txt
+SHA1-Digest: Hxjkq50d1HJRTfhnGsjVmtUwQ38=
+
+Name: res/drawable-xhdpi/passport_btn_checkbox_on_disabled_light.png
+SHA1-Digest: 41HJYPAO2wkIwJcdVmqIN3bj/As=
+
+Name: res/drawable-hdpi/passport_group_last_item_normal_bg.9.png
+SHA1-Digest: Dtf3rUrOdind2V4ULDjyzp11SGQ=
+
+Name: res/drawable-sw600dp-xhdpi/passport_btn_bg_dialog_single_normal_
+ light.9.png
+SHA1-Digest: 6KYFDaUjlwP7rdPn2N0IaFlJyl8=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_french.txt
+SHA1-Digest: fG8iHIY7dmE+dzMnRN1V8U+CAWs=
+
+Name: org/apache/commons/codec/language/bm/sep_languages.txt
+SHA1-Digest: N9Nby7yZl/CNB4XLYMOy4NPkDns=
+
+Name: res/drawable-sw600dp-xhdpi/passport_btn_bg_last_pressed_light.9.
+ png
+SHA1-Digest: 3EOPqpdPMn/V53AHoOEE8hAysvU=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_hebrew.txt
+SHA1-Digest: 1d23tX+8Zs6txZql1HQugopK6Dw=
+
+Name: res/color/passport_primary_text_dark.xml
+SHA1-Digest: SliwzZE3GYJSXTFWe8Jr4nwXVdk=
+
+Name: res/drawable-xxhdpi/passport_btn_bg_dialog_last_normal_light.9.p
+ ng
+SHA1-Digest: 4GSdyvEQuVWY8mq33P37Hs4eQx4=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_cyrillic.txt
+SHA1-Digest: T3Kwm8H/aw/kkF6SaYfagX9J1mw=
+
+Name: res/drawable-xhdpi/default_pic_large.9.png
+SHA1-Digest: F979BzBsBzF9B93uL55BITa4PgE=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_turkish.txt
+SHA1-Digest: ZK+AVLklo2cJUK6apOygqti1wRM=
+
+Name: res/drawable-xhdpi/passport_alphabet_indexer_bg.9.png
+SHA1-Digest: UWYxW/hTJ2bhF6GIWjx1tYxO9pI=
+
+Name: res/drawable-xhdpi/passport_group_last_item_warn_bg.9.png
+SHA1-Digest: joi8Ge41/lt4RNmdf6Xe/Hwd3qQ=
+
+Name: res/drawable-xxhdpi/icon_truck_current.png
+SHA1-Digest: /bTtebhoZjJizhTj6iNwgduu8oE=
+
+Name: assets/drawable-hdpi/ic_com_sina_weibo_sdk_close.png
+SHA1-Digest: 7v+7iEkPEQGf3r3HtAH6uZ76aRQ=
+
+Name: res/layout/listitem_service_enteritem.xml
+SHA1-Digest: 30UKqMpQqy6E5vG2SJbNgDYwaMA=
+
+Name: assets/plugins/mishopCoupon.apk
+SHA1-Digest: LPRUPrh2X56JR4pxIDAsWW+f4YQ=
+
+Name: res/drawable-xxhdpi/ellipsis_39.png
+SHA1-Digest: dZv6XY3pFA2WwvtK4UCERlrGRdI=
+
+Name: res/color/passport_hyperlink_text_color.xml
+SHA1-Digest: WiMgT2elmD/5Zp2BVCsyzCJteVk=
+
+Name: res/drawable/icon_cart.xml
+SHA1-Digest: ZVGOAxyMQqoWyJgd7hruZblfMEs=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_spanish.txt
+SHA1-Digest: QN+UL/Br/fToWzAZVM6R8yBU8uA=
+
+Name: assets/drawable-hdpi/weibosdk_common_button_alpha.9.png
+SHA1-Digest: wrS0uSbj6UgfIsJywN4llRKUa5M=
+
+Name: assets/button_green.9.png
+SHA1-Digest: 72N51zPrka+KUNiJfTjwx3sHXAI=
+
+Name: assets/plugins/mishopGoodsComment.apk
+SHA1-Digest: jnfos3l+J7cHORvPVJ8s+FXbfM8=
+
+Name: res/layout/passport_reg_by_other_ways_dialog.xml
+SHA1-Digest: Qi5J+QZ+i8vHOvn0i0qhm3s9Yx0=
+
+Name: assets/com.tencent.plus.blue_normal.png
+SHA1-Digest: xUbCnopVA5SB7IPOU07W9fIdgcQ=
+
+Name: res/drawable-xhdpi/passport_group_single_item_warn_bg.9.png
+SHA1-Digest: FMfnV4XwhkjEEBa/EJzrOOtK5ys=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_french.txt
+SHA1-Digest: o5S4BN9+movhRfKv/CPmwVWMk0s=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_common.txt
+SHA1-Digest: LdAHq1Uf7ZJObFLplHkMBg62o8g=
+
+Name: res/drawable-xxhdpi/icon_main_category_normal.png
+SHA1-Digest: h8t/j6QXRT3VsdlpxAp/kApVAiI=
+
+Name: assets/buttonNegt.png
+SHA1-Digest: M/KJLlnIIzm0mx/H8xU6UaR6OUo=
+
+Name: assets/button_red.9.png
+SHA1-Digest: z8N2pqVNkCyZz5wtpznaYVj1Als=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_hungarian.txt
+SHA1-Digest: 604dJC1I4/8Oy3q/B/iDaSTWh7Y=
+
+Name: res/drawable-xhdpi/passport_btn_bg_dialog_first_pressed_light.9.
+ png
+SHA1-Digest: rFjrmSrSgRfAEPQMu2gr51IFslc=
+
+Name: res/drawable-xhdpi/passport_btn_bg_last_pressed_light.9.png
+SHA1-Digest: fnHpsQGNQEBRWVdl214F3+JWLnM=
+
+Name: res/drawable-sw600dp-xhdpi/passport_alphabet_indexer_overlay.9.p
+ ng
+SHA1-Digest: thdxYg5Ne4dQmSaQT0FzQ6ElRMQ=
+
+Name: res/drawable-xhdpi/passport_alphabet_indexer_overlay.9.png
+SHA1-Digest: Kfnp6uSBZmE/JdGKb/Rs8EKxtoQ=
+
+Name: res/layout/eula_content.xml
+SHA1-Digest: RQaFmiy+iRRqesP+yuTfDNAPyDI=
+
+Name: org/apache/commons/codec/language/bm/sep_exact_any.txt
+SHA1-Digest: vokBnqDrzgh7ubmg4N5ltqYJsgY=
+
+Name: res/drawable-xxhdpi/passport_btn_bg_warn_single_disable_light.9.
+ png
+SHA1-Digest: f18elmt4hqK+4ORc3fzPEfQwLuA=
+
+Name: assets/cfg/a/ResPack_Street.cfg
+SHA1-Digest: UaJDqma+faYUnJOqH8THYYtwpE8=
+
+Name: res/anim/passport_dialog_enter.xml
+SHA1-Digest: n5r9sy0lCMJviZQybshnLAllANk=
+
+Name: res/color/passport_button_text_light.xml
+SHA1-Digest: B9yw/bu6q5dzRfOV43mrCLtJaqY=
+
+Name: assets/com.tencent.plus.gray_disable.png
+SHA1-Digest: 0fMmhHNVjPOxFO8244xzl2vO0Jw=
+
+Name: res/drawable-xhdpi/passport_btn_bg_single_normal_light.9.png
+SHA1-Digest: DE3jKpQp79rauQlMuZI4jAh6Izc=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_hungarian.txt
+SHA1-Digest: QN+UL/Br/fToWzAZVM6R8yBU8uA=
+
+Name: assets/drawable-hdpi/timeline_relationship_icon_attention.png
+SHA1-Digest: m9Sl7cMNH0zKQUJbHGqdhFy2yso=
+
+Name: res/drawable-xhdpi/default_pic_small.9.png
+SHA1-Digest: NBreEvYJ7nBBAtCKrrXKAYuLbJw=
+
+Name: res/drawable-xxhdpi/sns_dialog_cancle.png
+SHA1-Digest: Phf7BUOLfipcT9LRFZ521UkYtPY=
+
+Name: res/drawable-xxhdpi/icon_home_cart.png
+SHA1-Digest: +41n6b39M+MocLoULvweSJAoYZI=
+
+Name: com/sina/weibo/sdk/net/cacert_com.cer
+SHA1-Digest: PPEejzH42pAoiGsQTsqGfGF74fg=
+
+Name: res/layout/main_titlebar.xml
+SHA1-Digest: jPUSKtQNCxNZd2WpKuUnk8xk0/4=
+
+Name: res/drawable-hdpi/passport_provision_bg.9.png
+SHA1-Digest: 8mYAmjgV0FRMpaEtHq+y5WdQmpM=
+
+Name: res/color/passport_preference_secondary_text_light.xml
+SHA1-Digest: JbOjmZh9G2jMe3TNjRHzL3cb49I=
+
+Name: res/drawable-xxhdpi/passport_list_item_single_bg_selected_light.
+ 9.png
+SHA1-Digest: u0hnjdE4yAITFNzBhffcWgtanww=
+
+Name: res/drawable-xxhdpi/passport_ic_contact_photo_bg.png
+SHA1-Digest: hNP94PjSnVyCKdcfk+n8xryBAc8=
+
+Name: res/drawable/selector_home_theme_listitem.xml
+SHA1-Digest: njFDdElgwntoB2fj8LQBwqZ+eXw=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_romanian.txt
+SHA1-Digest: QN+UL/Br/fToWzAZVM6R8yBU8uA=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_cyrillic.txt
+SHA1-Digest: 00E7VR452tbgGSDvaN2vH71JXd0=
+
+Name: org/apache/commons/codec/language/bm/ash_hebrew_common.txt
+SHA1-Digest: lhqN1L0rc6oqNcToAM5w5eXc69k=
+
+Name: res/drawable-hdpi/passport_default_avatar.png
+SHA1-Digest: vp2+j5RmW/PEisQvUBAw5jtjkp4=
+
+Name: res/drawable-hdpi/passport_group_middle_item_normal_bg.9.png
+SHA1-Digest: 5JxmZOZAb9VOtTeBUmBjPznnaP8=
+
+Name: res/anim/pop_overlay_show.xml
+SHA1-Digest: O/AFCaQzBPfpraOlFdmE96J8nYw=
+
+Name: res/drawable-xxhdpi/passport_arrow_right_disable.png
+SHA1-Digest: URAzGy9TPg9evcO/kcXmZCbQVfA=
+
+Name: res/drawable-xxhdpi/radio_button_p2.9.png
+SHA1-Digest: v+iXpMu+AQEqWXme6h7HjyP+SG0=
+
+Name: res/layout/multi_graph_item.xml
+SHA1-Digest: xQr6gwijOW0ubdflVKYVK3P4iY8=
+
+Name: res/drawable-xxhdpi/passport_arrow_right_pressed.png
+SHA1-Digest: gYK8kPZHx7g9dDDqsmq1ZMvtCJI=
+
+Name: res/drawable-xhdpi/group_single_item_normal_bg.9.png
+SHA1-Digest: WRy9R+0cVCYPXfz2HhCNMnEby/o=
+
+Name: res/layout/passport_welcome.xml
+SHA1-Digest: RXzwFSfS0k8vPseeZpQMTFO7SdE=
+
+Name: res/drawable-xxhdpi/passport_btn_checkbox_on_disabled_light.png
+SHA1-Digest: n8gv9V1QuIR4U8GBl2uO8nsnzME=
+
+Name: res/drawable-xhdpi/list_default_bg.9.png
+SHA1-Digest: jbua/qSZmLo7cGIqV6bx5qh/VNg=
+
+Name: res/drawable-xhdpi/passport_btn_bg_dialog_last_pressed_light.9.p
+ ng
+SHA1-Digest: LJyWX4B5fefLyHKh1ua/5C2NDJU=
+
+Name: res/anim/slide_right_out.xml
+SHA1-Digest: jbjwsCfGkDQxKchZVMAsIB4mMSQ=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_hebrew.txt
+SHA1-Digest: KmHuQHLS9h1anGqkGCPCCtXC9QI=
+
+Name: res/layout/home_fragment.xml
+SHA1-Digest: vcnObHUpnT76rxyHbnCQKAMSpdY=
+
+Name: res/drawable-xxhdpi/icon_barcode.png
+SHA1-Digest: UBAjoWuuuvM3UVFJg7tcOhvEd08=
+
+Name: org/apache/commons/codec/language/bm/ash_rules_cyrillic.txt
+SHA1-Digest: EsR+HI42mjkQMSRBChc6UJMNHnk=
+
+Name: res/drawable-xxhdpi/passport_action_bar_back_normal_light.png
+SHA1-Digest: 8zUlddai7EyseB8OiSqNJORcAag=
+
+Name: res/drawable-hdpi/overall_intro.jpg
+SHA1-Digest: IVvIpE10uvpQjrYn+7Hs3HMZHuI=
+
+Name: res/drawable-xxhdpi/passport_progressbar_indeterminate_bg_light.
+ png
+SHA1-Digest: b5JhGLBwlHH8YnXWRgegxBk1/dI=
+
+Name: res/drawable-xxhdpi/bg_usercentral.jpg
+SHA1-Digest: QOQw57mChS/pFt2PnHlpv+AFbrk=
+
+Name: res/drawable-xxhdpi/passport_ic_contact_photo_mask.png
+SHA1-Digest: VxjD59p4Mq97LKr0PvR2E83nO7w=
+
+Name: org/apache/commons/codec/language/bm/gen_approx_polish.txt
+SHA1-Digest: e4PksIbpzRqmyfXiE+gxLVhuVNA=
+
+Name: res/drawable/passport_btn_bg_dialog_first_light.xml
+SHA1-Digest: qxdo05tYhBm7bG7SzBfRhM0OqWI=
+
+Name: res/drawable-xhdpi/group_first_item_warn_bg.9.png
+SHA1-Digest: IMZi8Ym69K8EjZabGhENP4i24RY=
+
+Name: lib/armeabi/libweibosdkcore.so
+SHA1-Digest: Y8MqLHzruqdbiEkNCGS1xRTqpGM=
+
+Name: res/drawable-hdpi/passport_group_first_item_normal_bg.9.png
+SHA1-Digest: tOvVBvxUZH73GiAd5xwyH98j1gY=
+
+Name: res/drawable-xhdpi/price_desc_hl.png
+SHA1-Digest: kHCvs8yS5ier+HU8zub2jtoZPyI=
+
+Name: org/apache/commons/codec/language/bm/ash_exact_german.txt
+SHA1-Digest: w4DMVKfl4a7tpge4d91vRsE09Uc=
+
+Name: assets/cfg/h/DVStreet.cfg
+SHA1-Digest: OKtyGk2LWo+vKRyXiSg+vXosqn8=
+
+Name: res/drawable-xxhdpi/icon_back_white.png
+SHA1-Digest: RMf5SZfznlzPa6lclMqyPhvPpZ4=
+
+Name: org/apache/commons/codec/language/bm/ash_approx_spanish.txt
+SHA1-Digest: 604dJC1I4/8Oy3q/B/iDaSTWh7Y=
+
+Name: res/layout/passport_input_password.xml
+SHA1-Digest: s7lk5CmK1YW7hT6apIhC+gNBgcA=
+
+Name: assets/drawable-hdpi/weibosdk_navigationbar_background.9.png
+SHA1-Digest: m/0EvbVMJK3wZiScHZrhyRQJtZo=
+
+Name: res/drawable-xxhdpi/icon_usercentral_default_head.png
+SHA1-Digest: YOVkBd+U4IJizb0ErFV5j0mTCLQ=
+
+Name: res/drawable-xxhdpi/icon_home_footer_feedback.png
+SHA1-Digest: sdXVNwLVY7mUIB4ACDYIcCdxAzI=
+
+Name: assets/com.tencent.plus.gray_down.png
+SHA1-Digest: 3kvmQFE/DE41dwoZpkQMHPpWtuI=
+
+Name: assets/plugins/mishopPhotoPicker.apk
+SHA1-Digest: eZRs+5sc/F20N/ggd2c5/JvSUPw=
+
+Name: res/drawable-xhdpi/loading_view_bg.9.png
+SHA1-Digest: FMz4qg4MjH55HsvprevOLb7fYD4=
+
+Name: org/apache/commons/codec/language/bm/gen_rules_spanish.txt
+SHA1-Digest: T+njbAJy1Bqc9+cbiIJMwcI9HrU=
+
+Name: res/layout/home_header_bigad_image.xml
+SHA1-Digest: saubf4Or3Ju6/Jnire/RYR0iTgI=
+
+Name: res/layout/passport_captcha.xml
+SHA1-Digest: g3/Pj0q0kEws6ZqpTYeHpOeUSIE=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_common.txt
+SHA1-Digest: u/mGD68aVPmhFiWBCiQdju9UoVw=
+
+Name: res/drawable/dash_divider.xml
+SHA1-Digest: r1Lgim0bO3IdDgVaLI6YbgZ1crA=
+
+Name: res/layout/captcha.xml
+SHA1-Digest: qyeCY83kB4oNyIbxlceGNzQjSRU=
+
+Name: res/drawable-xxhdpi/passport_alphabet_indexer_text_highlight_bg.
+ png
+SHA1-Digest: hKCUEwhzJoiJQj5ZoJRsAZ+gWdg=
+
+Name: org/apache/commons/codec/language/bm/gen_exact_arabic.txt
+SHA1-Digest: 6qj8otnCUSRgzzY1XsPSLprI8l4=
+
+Name: assets/drawable-xhdpi/common_button_white.9.png
+SHA1-Digest: m3sajDenkTSeLLmAjqDDm5DvkCA=
+

@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         //final View viewStart = View.inflate(this, R.layout.activity_main, null);
         //requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.activity_main);
-        getSupportActionBar().hide();
+        getSupportActionBar().hide(); //hide title
 
         imageViewWelcom = (ImageView)findViewById(R.id.image_welcom);
 

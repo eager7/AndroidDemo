@@ -3,15 +3,16 @@
 
     <group android:checkableBehavior="single">
         <item android:id="@+id/nav_search_iotc"
-            android:icon="@android:drawable/ic_menu_camera"
+            android:icon="@android:drawable/ic_menu_search"
+
             android:title="@string/search_iotc"
             />
         <item android:id="@+id/nav_list_devices"
-            android:icon="@android:drawable/ic_menu_gallery"
+            android:icon="@android:drawable/ic_menu_info_details"
             android:title="@string/list_devices" />
 
         <item android:id="@+id/nav_help_iotc"
-            android:icon="@android:drawable/ic_menu_slideshow"
+            android:icon="@android:drawable/ic_menu_help"
             android:title="@string/help_iotc" />
 
         <item android:id="@+id/nav_manage"

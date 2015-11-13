@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+
+    <plugin
+        id="101"
+        desc="产品详情页"
+        path="plugins/mishopProductDetail.apk"
+        priority="1"
+        rootFragment="com.xiaomi.shop2.plugin.goodsdetail.GoodsDetailFragment"
+        version="3"
+        versionParent="20150717" >
+    </plugin>
+
+    <plugin
+        id="102"
+        desc="购物车"
+        path="plugins/mishopCart.apk"
+        priority="1"
+        rootFragment="com.xiaomi.shop2.plugin.shopcart.CartFragment"
+        version="3"
+        versionParent="20150717" >
+    </plugin>
+
+    <plugin
+        id="103"
+        desc="订单"
+        path="plugins/mishopOrder.apk"
+        priority="1"
+        rootFragment="com.xiaomi.shop2.plugin.order.RootFragment"
+        version="4"
+        versionParent="20150717" >
+    </plugin>
+
+    <plugin
+        id="104"
+        desc="商品评价"
+        path="plugins/mishopGoodsComment.apk"
+        priority="2"
+        rootFragment="com.xiaomi.shop.plugin.goodscomment.ui.RootFragment"
+        version="1"
+        versionParent="20150717" >
+    </plugin>
+
+    <plugin
+        id="105"
+        desc="地址"
+        path="plugins/mishopAddress.apk"
+        priority="1"
+        rootFragment="com.xiaomi.shop.plugin.address.ui.RootFragment"
+        version="1"
+        versionParent="20150717" >
+    </plugin>
+
+    <plugin
+        id="107"
+        desc="优惠券"
+        path="plugins/mishopCoupon.apk"
+        priority="2"
+        rootFragment="com.xiaomi.shop2.plugin.mishopcoupon.RootFragment"
+        version="1"
+        versionParent="20150717" >
+    </plugin>
+
+    <plugin
+        id="108"
+        desc="米家"
+        path="plugins/mishopMiHome.apk"
+        priority="3"
+        rootFragment="com.xiaomi.shop2.plugin.mishopmihome.RootFragment"
+        version="1"
+        versionParent="20150717" >
+    </plugin>
+
+    <plugin
+        id="109"
+        desc="搜索"
+        path="plugins/mishopSearch.apk"
+        priority="2"
+        rootFragment="com.xiaomi.shop2.plugin.search.SearchFragment"
+        version="2"
+        versionParent="20150717" >
+    </plugin>
+
+    <plugin
+        id="110"
+        desc="条码扫描"
+        path="plugins/mishopBarcode.apk"
+        priority="3"
+        rootFragment="com.xiaomi.shop2.plugin.barcode.BarcodeFragment"
+        version="1"
+        versionParent="20150717" >
+    </plugin>
+
+    <plugin
+        id="111"
+        desc="M页"
+        path="plugins/mishopWebView.apk"
+        priority="2"
+        rootFragment="com.xiaomi.shop2.plugin.webview.RootFragment"
+        version="1"
+        versionParent="20150717" >
+    </plugin>
+
+    <plugin
+        id="112"
+        desc="图片查看"
+        path="plugins/mishopPhotoPicker.apk"
+        priority="3"
+        rootFragment="com.xiaomi.shop2.plugin.photopicker.ChoosePhotosFragment"
+        version="1"
+        versionParent="20150717" >
+    </plugin>
+
+    <plugin
+        id="113"
+        desc="晒单"
+        path="plugins/mishopReviews.apk"
+        priority="3"
+        rootFragment="com.xiaomi.shop.plugin.reviews.ui.RootFragment"
+        version="1"
+        versionParent="20150717" >
+    </plugin>
+
+    <plugin
+        id="114"
+        desc="设置"
+        path="plugins/mishopSetting.apk"
+        priority="3"
+        rootFragment="com.xiaomi.shop2.plugin.setting.RootFragment"
+        version="5"
+        versionParent="20150717" >
+    </plugin>
+
+    <plugin
+        id="115"
+        desc="消息通知"
+        path="plugins/mishopMsgCenter.apk"
+        priority="3"
+        rootFragment="com.xiaomi.shop2.plugin.msgcenter.RootFragment"
+        version="1"
+        versionParent="20150717" >
+    </plugin>
+
+    <plugin
+        id="116"
+        desc="商品列表页"
+        path="plugins/mishopProductList.apk"
+        priority="3"
+        rootFragment="com.xiaomi.shop.plugin.productlist.ui.RootFragment"
+        version="8"
+        versionParent="20150717" >
+    </plugin>
+
+    <plugin
+        id="117"
+        desc="在线客服"
+        path="plugins/michat.apk"
+        priority="3"
+        rootFragment="com.xiaomi.chat.fragment.RootFragment"
+        version="1"
+        versionParent="20150717" >
+    </plugin>
+
+    <plugin
+        id="118"
+        desc="收藏"
+        path="plugins/mishopFavorite.apk"
+        priority="3"
+        rootFragment="com.xiaomi.shop2.plugin.mishopfavorite.RootFragment"
+        version="1"
+        versionParent="20150717" >
+    </plugin>
+
+    <plugin
+        id="119"
+        desc="购买资格"
+        path="plugins/mishopInvite.apk"
+        priority="3"
+        rootFragment="com.xiaomi.shop.plugin.invite.RootFragment"
+        version="1"
+        versionParent="20150717" >
+    </plugin>
+
+    <plugin
+        id="120"
+        desc="意见反馈	"
+        path="plugins/mishopMsgReply.apk"
+        priority="3"
+        rootFragment="com.xiaomi.shop.plugin.msgReply.RootFragment"
+        version="1"
+        versionParent="20150717" >
+    </plugin>
+
+    <plugin
+        id="121"
+        desc="手机意外保"
+        path="plugins/mishopInsurance.apk"
+        priority="3"
+        rootFragment="com.xiaomi.shop2.plugin.mishopinsurance.InsuranceListFragment"
+        version="1"
+        versionParent="20150717" >
+    </plugin>
+
+</plugin>

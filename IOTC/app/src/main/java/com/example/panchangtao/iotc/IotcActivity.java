@@ -37,6 +37,7 @@ public class IotcActivity extends AppCompatActivity
         setContentView(R.layout.activity_iotc);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+        getSupportActionBar().setTitle(R.string.iot_center);
 
         utils = new Utils();
         textViewDisplay = (TextView)findViewById(R.id.textview_dispaly);
