@@ -11,7 +11,7 @@ import android.widget.Toast;
  * Created by panchangtao on 15/11/13.
  */
 public class Utils {
-    public static final int iTimeWelcome = 200;
+    public static final int iTimeWelcome = 500;
     public static final int iRecvData = 0x01;
     public static final int iFindServer = 0x02;
     public static final int iTimeOut = 0x03;

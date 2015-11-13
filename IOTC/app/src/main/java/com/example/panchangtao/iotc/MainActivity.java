@@ -6,7 +6,9 @@ import android.os.Handler;
 import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 import android.view.Window;
+import android.view.animation.Animation;
 import android.widget.ImageView;
 
 import java.util.logging.LogRecord;
@@ -20,10 +22,12 @@ public class MainActivity extends AppCompatActivity {
         utils = new Utils();
 
         super.onCreate(savedInstanceState);
+        //final View viewStart = View.inflate(this, R.layout.activity_main, null);
+        //requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.activity_main);
+        getSupportActionBar().hide();
 
         imageViewWelcom = (ImageView)findViewById(R.id.image_welcom);
-
 
         final Handler handlerStartNew = new Handler() {
             @Override
