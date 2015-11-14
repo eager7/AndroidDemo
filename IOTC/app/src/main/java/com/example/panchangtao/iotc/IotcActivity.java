@@ -16,6 +16,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
+import android.widget.SimpleAdapter;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -23,6 +26,10 @@ import java.io.IOException;
 import java.net.DatagramPacket;
 import java.net.InetAddress;
 import java.net.MulticastSocket;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.LinkedList;
+import java.util.List;
 
 public class IotcActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -30,6 +37,7 @@ public class IotcActivity extends AppCompatActivity
     private Utils utils = null;
     Handler handlerSocketRev = null;
     TextView textViewDisplay = null;
+    ListView listViewDisplay = null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -41,6 +49,7 @@ public class IotcActivity extends AppCompatActivity
 
         utils = new Utils();
         textViewDisplay = (TextView)findViewById(R.id.textview_dispaly);
+        listViewDisplay = (ListView)findViewById(R.id.listview_display);
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
@@ -59,14 +68,23 @@ public class IotcActivity extends AppCompatActivity
                         utils.mToast("Recv Message", Toast.LENGTH_SHORT, getApplicationContext());
                         utils.DBG_vPrintf("Recv Message From Socket\n");
                         textViewDisplay.append("Recv Message");
-                        utils.DBG_vPrintf("Set TextView\n");
+
                     }break;
                     case (Utils.iTimeOut):{
-                        utils.mToast("Connect TimeOut", Toast.LENGTH_SHORT, getApplicationContext());
+                        utils.mToast("Recv TimeOut", Toast.LENGTH_SHORT, getApplicationContext());
                     }break;
                     case (Utils.iFindServer):{
-                        utils.DBG_vPrintf("Find Iotc Server");
+                        utils.DBG_vPrintf("Find Iotc Server\n");
                         textViewDisplay.setText(msg.obj.toString());
+
+                        utils.DBG_vPrintf("New mData\n");
+                        List<IotcServers> mData = new LinkedList<IotcServers>();
+                        utils.DBG_vPrintf("add mData\n");
+                        mData.add(new IotcServers("IotcServer", msg.obj.toString()));
+                        utils.DBG_vPrintf("New adapter\n");
+                        IotcServerAdapter adapter = new IotcServerAdapter((LinkedList<IotcServers>)mData, IotcActivity.this);
+                        utils.DBG_vPrintf("display mData\n");
+                        listViewDisplay.setAdapter(adapter);
                     }
                     default:
                         break;
@@ -146,6 +164,21 @@ public class IotcActivity extends AppCompatActivity
 
     public void listDevicesList(){
         utils.mToast("listDevicesList", Toast.LENGTH_SHORT, getApplicationContext());
+        String[] strs = new String[] {
+                "first", "second", "third", "fourth", "fifth"
+        };
+        listViewDisplay.setAdapter(new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, strs));
+    }
+
+    private List<String> getData(){
+
+        List<String> data = new ArrayList<String>();
+        data.add("测试数据1");
+        data.add("测试数据2");
+        data.add("测试数据3");
+        data.add("测试数据4");
+
+        return data;
     }
 
     public void showIotcHelp(){
@@ -178,7 +211,7 @@ public class IotcActivity extends AppCompatActivity
                 byte[] byteRev = new byte[512];
                 udpPacket = new DatagramPacket(byteRev,byteRev.length);
                 utils.DBG_vPrintf("Recv Data From Server");
-
+mSocket.setSoTimeout(2000);
                 mSocket.receive(udpPacket);
 
                 String stringIotcAddress;
@@ -198,6 +231,7 @@ public class IotcActivity extends AppCompatActivity
             } catch (IOException e) {
                 utils.ERR_vPrintf("Can't Search Iotc," + e.toString());
                 e.printStackTrace();
+                handlerSocketRev.sendEmptyMessage(Utils.iTimeOut);
             }
 
         }
