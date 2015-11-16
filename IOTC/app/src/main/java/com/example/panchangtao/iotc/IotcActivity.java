@@ -71,16 +71,19 @@ public class IotcActivity extends AppCompatActivity
 
                     }break;
                     case (Utils.iTimeOut):{
-                        utils.mToast("Recv TimeOut", Toast.LENGTH_SHORT, getApplicationContext());
+                        utils.mToast("Can't Connect With Server", Toast.LENGTH_SHORT, getApplicationContext());
+                        textViewDisplay.setText(R.string.connect_timeout);
                     }break;
                     case (Utils.iFindServer):{
                         utils.DBG_vPrintf("Find Iotc Server\n");
                         textViewDisplay.setText(msg.obj.toString());
+                        textViewDisplay.setText(R.string.connect_success);
 
                         utils.DBG_vPrintf("New mData\n");
                         List<IotcServers> mData = new LinkedList<IotcServers>();
-                        utils.DBG_vPrintf("add mData\n");
-                        mData.add(new IotcServers("IotcServer", msg.obj.toString()));
+                        utils.DBG_vPrintf("add mData:"+msg.obj.toString());
+
+                        mData.add(new IotcServers("IotcServer", msg.obj.toString(), R.mipmap.launcher_router));
                         utils.DBG_vPrintf("New adapter\n");
                         IotcServerAdapter adapter = new IotcServerAdapter((LinkedList<IotcServers>)mData, IotcActivity.this);
                         utils.DBG_vPrintf("display mData\n");
@@ -211,7 +214,7 @@ public class IotcActivity extends AppCompatActivity
                 byte[] byteRev = new byte[512];
                 udpPacket = new DatagramPacket(byteRev,byteRev.length);
                 utils.DBG_vPrintf("Recv Data From Server");
-mSocket.setSoTimeout(2000);
+                mSocket.setSoTimeout(2000);//Set Recv Timeout
                 mSocket.receive(udpPacket);
 
                 String stringIotcAddress;

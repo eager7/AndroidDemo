@@ -11,4 +11,8 @@
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="connect_timeout">连接好像失败啦，看看是不是在一个局域网呢</string>
+    <string name="connect_success">连接成功了，请选择网关连接吧</string>
+
 </resources>
