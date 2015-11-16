@@ -7,6 +7,7 @@ import android.os.Handler;
 import android.os.Message;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.util.Log;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -16,16 +17,26 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.Adapter;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.OutputStream;
 import java.net.DatagramPacket;
 import java.net.InetAddress;
+import java.net.InetSocketAddress;
 import java.net.MulticastSocket;
+import java.net.Socket;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedList;
@@ -38,6 +49,7 @@ public class IotcActivity extends AppCompatActivity
     Handler handlerSocketRev = null;
     TextView textViewDisplay = null;
     ListView listViewDisplay = null;
+    String aSocketAddress = null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -88,6 +100,22 @@ public class IotcActivity extends AppCompatActivity
                         IotcServerAdapter adapter = new IotcServerAdapter((LinkedList<IotcServers>)mData, IotcActivity.this);
                         utils.DBG_vPrintf("display mData\n");
                         listViewDisplay.setAdapter(adapter);
+                        //set onclick event
+                        listViewDisplay.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+                            @Override
+                            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                                //Get selected item hash map
+                                utils.mToast("Click"+position+":",Toast.LENGTH_SHORT,getApplicationContext());
+                                switch (position){
+                                    case (0):{
+                                        //aSocketAddress = msg.obj.toString();
+                                    }
+                                    break;
+                                    default:
+                                        break;
+                                }
+                            }
+                        });
                     }
                     default:
                         break;
@@ -135,10 +163,13 @@ public class IotcActivity extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.nav_search_iotc) {
+            refreshTextViewDisplay();
             searchIotcServer();
         } else if (id == R.id.nav_list_devices) {
+            refreshTextViewDisplay();
             listDevicesList();
         } else if (id == R.id.nav_help_iotc) {
+            refreshTextViewDisplay();
             showIotcHelp();
         } else if (id == R.id.nav_manage) {
 
@@ -165,29 +196,78 @@ public class IotcActivity extends AppCompatActivity
         multicastLock.release();
     }
 
-    public void listDevicesList(){
+    public void listDevicesList() {
         utils.mToast("listDevicesList", Toast.LENGTH_SHORT, getApplicationContext());
-        String[] strs = new String[] {
-                "first", "second", "third", "fourth", "fifth"
-        };
-        listViewDisplay.setAdapter(new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, strs));
+        JSONObject jsonRequestList = new JSONObject();
+        try{
+            jsonRequestList.put("sequence_no", 123123);
+            jsonRequestList.put("event_type", 1);
+            jsonRequestList.put("message_type",0x8003);
+            jsonRequestList.put("description","[]");
+        }catch (JSONException ex){
+            throw new RuntimeException(ex);
+        }
+        //textViewStatus.setText(jsonRequestList.toString());
+        new SocketClientThread(jsonRequestList.toString()).start();
+
+    }
+    class SocketClientThread extends Thread{
+        public String stringRev;
+
+        public SocketClientThread(String str){
+            stringRev = str;
+        }
+
+        @Override
+        public void run() {
+            Message msgSocket = new Message();
+
+            Socket socketClient = new Socket();
+            try {
+                Log.i("PCT", "Connect to Server...\n");
+                socketClient.connect(new InetSocketAddress("10.128.118.43", Utils.iSocPort), 5000);
+                Log.i("PCT", "Connect Success\n");
+                OutputStream outputStreamSocketClient = socketClient.getOutputStream();
+                outputStreamSocketClient.write(Integer.parseInt(stringRev));
+                outputStreamSocketClient.flush();
+
+                BufferedReader bufferedReaderSocketClient = new BufferedReader(new InputStreamReader(socketClient.getInputStream()));
+                String line = null;
+                String buffer = "";
+                while((line = bufferedReaderSocketClient.readLine()) != null){
+                    buffer = line + buffer;
+                }
+                msgSocket.what = Utils.iRecvData;
+                msgSocket.obj = buffer;
+                handlerSocketRev.sendMessage(msgSocket);
+                socketClient.close();
+
+            } catch (IOException e) {
+                utils.ERR_vPrintf("Can,t Connect to Server," + e.toString());
+                handlerSocketRev.sendEmptyMessage(Utils.iTimeOut);
+                e.printStackTrace();
+
+            }
+
+            try {
+                Thread.sleep(1);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
     }
 
-    private List<String> getData(){
-
-        List<String> data = new ArrayList<String>();
-        data.add("测试数据1");
-        data.add("测试数据2");
-        data.add("测试数据3");
-        data.add("测试数据4");
-
-        return data;
-    }
-
-    public void showIotcHelp(){
+    public void showIotcHelp() {
         utils.mToast("showIotcHelp", Toast.LENGTH_SHORT, getApplicationContext());
     }
 
+    public void refreshTextViewDisplay(){
+        utils.DBG_vPrintf("refreshTextViewDisplay\n");
+        textViewDisplay.setText("");
+        ArrayList<String> list = new ArrayList<String>();
+        ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, list);
+        listViewDisplay.setAdapter(arrayAdapter);//clear context
+    }
     class SocketSearchThread extends Thread{
         public String stringSearch;
 

@@ -17,6 +17,7 @@ public class Utils {
     public static final int iTimeOut = 0x03;
 
     public static final int iMulPort = 7789;
+    public static final int iSocPort = 7788;
     public static final String stringMulAddress = "239.227.227.227";
 
 
