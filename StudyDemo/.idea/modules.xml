@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/handler&amp;bundle/handler&amp;bundle.iml" filepath="$PROJECT_DIR$/handler&amp;bundle/handler&amp;bundle.iml" />
       <module fileurl="file://$PROJECT_DIR$/handler2/handler2.iml" filepath="$PROJECT_DIR$/handler2/handler2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlite/sqlite.iml" filepath="$PROJECT_DIR$/sqlite/sqlite.iml" />
     </modules>
   </component>
 </project>

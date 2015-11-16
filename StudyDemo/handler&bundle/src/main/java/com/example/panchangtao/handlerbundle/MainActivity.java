@@ -23,11 +23,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     HandlerThread handlerThread = new HandlerThread("handler_thread");//提供循环处理消息的功能
-    handlerThread.start();
+    //handlerThread.start();
 
     MyHandler myHandler = new MyHandler(handlerThread.getLooper());
     Message msg = myHandler.obtainMessage();
-    msg.sendToTarget();
+    //msg.sendToTarget();
 
     class MyHandler extends Handler{
         public MyHandler(){
