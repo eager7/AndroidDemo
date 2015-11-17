@@ -1,1 +1,1 @@
-include ':app', ':handler2', ':handler&bundle', ':sqlite', ':debug', ':download'
+include ':app', ':handler2', ':handler&bundle', ':sqlite', ':debug', ':download', ':contentprovider', ':servers1'
