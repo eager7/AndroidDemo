@@ -303,7 +303,7 @@ public class IotcActivity extends AppCompatActivity
 
                 Message msgIotcAddress = new Message();
                 msgIotcAddress.what = Utils.iFindServer;
-                msgIotcAddress.obj = udpPacket.getAddress().getHostName();
+                msgIotcAddress.obj = udpPacket.getAddress().getHostAddress();
                 utils.DBG_vPrintf("The Server Ip is " + msgIotcAddress.obj.toString());
 
                 handlerSocketRev.sendMessage(msgIotcAddress);
