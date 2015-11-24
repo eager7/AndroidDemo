@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Scorll/Scorll.iml" filepath="$PROJECT_DIR$/Scorll/Scorll.iml" />
       <module fileurl="file://$PROJECT_DIR$/StudyDemo.iml" filepath="$PROJECT_DIR$/StudyDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/contentprovider/contentprovider.iml" filepath="$PROJECT_DIR$/contentprovider/contentprovider.iml" />
@@ -10,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/handler&amp;bundle/handler&amp;bundle.iml" filepath="$PROJECT_DIR$/handler&amp;bundle/handler&amp;bundle.iml" />
       <module fileurl="file://$PROJECT_DIR$/handler2/handler2.iml" filepath="$PROJECT_DIR$/handler2/handler2.iml" />
       <module fileurl="file://$PROJECT_DIR$/servers1/servers1.iml" filepath="$PROJECT_DIR$/servers1/servers1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple_config/simple_config.iml" filepath="$PROJECT_DIR$/simple_config/simple_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartconfig/smartconfig.iml" filepath="$PROJECT_DIR$/smartconfig/smartconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/sqlite/sqlite.iml" filepath="$PROJECT_DIR$/sqlite/sqlite.iml" />
       <module fileurl="file://$PROJECT_DIR$/sqlite/sqlite.iml" filepath="$PROJECT_DIR$/sqlite/sqlite.iml" />
     </modules>
