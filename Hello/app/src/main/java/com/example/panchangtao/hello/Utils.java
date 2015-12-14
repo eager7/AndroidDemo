@@ -20,6 +20,7 @@ public class Utils {
         TextView v = (TextView) toast.getView().findViewById(android.R.id.message);
         v.setTextColor(Color.YELLOW);     //设置字体颜色
         toast.show();
+
     }
 
     void DBG_vPrintf(String str){
